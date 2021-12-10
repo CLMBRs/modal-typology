@@ -1,0 +1,11 @@
+language,expression,weak.epistemic,weak.reportative,weak.deontic,weak.circumstantial,strong.epistemic,strong.reportative,strong.deontic,strong.circumstantial
+gitksan,ima(’a),1,0,0,0,1,0,0,0
+gitksan,gat,1,1,0,0,1,1,0,0
+gitksan,da’akhlxw,0,0,0,1,0,0,0,0
+gitksan,anook(xw),0,0,1,0,0,0,0,0
+gitksan,sgi,0,0,0,0,0,0,1,1
+tlingit,gwál,1,NA,0,0,0,NA,?,?
+tlingit,giwe,1,NA,0,0,0,NA,?,?
+tlingit,shákdé,1,NA,0,0,0,NA,?,?
+tlingit,future mode,?,NA,?,0,0,NA,0,1
+tlingit,potential mode,0,NA,0,1,?,NA,?,0
