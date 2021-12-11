@@ -21,6 +21,4 @@ Each row is one observation: `can_express` has values stating whether or not an 
 # TODOs
 
 * detailed README and contribution guide
-* add metadata for languages (incl reference)
-* script for writing big metadata table
 * move existing data into this format
