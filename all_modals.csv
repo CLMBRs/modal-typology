@@ -1,17 +1,54 @@
-language,expression,weak.epistemic,weak.reportative,weak.deontic,weak.circumstantial,strong.epistemic,strong.reportative,strong.deontic,strong.circumstantial,weak.teleological,weak.bouletic,strong.teleological,strong.bouletic
-gitksan,ima(’a),1,0,0,0,1,0,0,0,NA,NA,NA,NA
-gitksan,gat,1,1,0,0,1,1,0,0,NA,NA,NA,NA
-gitksan,da’akhlxw,0,0,0,1,0,0,0,0,NA,NA,NA,NA
-gitksan,anook(xw),0,0,1,0,0,0,0,0,NA,NA,NA,NA
-gitksan,sgi,0,0,0,0,0,0,1,1,NA,NA,NA,NA
-javanese-paciran,mesthi,0,NA,0,0,1,NA,0,0,?,?,?,?
-javanese-paciran,paleng,1,NA,?,0,0,NA,?,0,?,?,?,?
-javanese-paciran,oleh,0,NA,1,0,0,NA,0,0,?,?,?,?
-javanese-paciran,iso,0,NA,0,1,0,NA,0,0,?,?,?,?
-javanese-paciran,kudu1,0,NA,0,0,0,NA,1,1,0,0,1,0
-javanese-paciran,kudu2,0,NA,0,0,0,NA,0,0,0,0,0,1
-tlingit,gwál,1,NA,0,0,0,NA,?,?,NA,NA,NA,NA
-tlingit,giwe,1,NA,0,0,0,NA,?,?,NA,NA,NA,NA
-tlingit,shákdé,1,NA,0,0,0,NA,?,?,NA,NA,NA,NA
-tlingit,future mode,?,NA,?,0,0,NA,0,1,NA,NA,NA,NA
-tlingit,potential mode,0,NA,0,1,?,NA,?,0,NA,NA,NA,NA
+language,expression,strong.ability,weak.bouletic,weak.intentional,weak.deontic,strong.deontic,weak.epistemic,weak.reportative,weak.circumstantial,strong.epistemic,strong.reportative,strong.circumstantial,weak.irrealis,weak.future,weak.ability,strong.intentional,weak.teleological,strong.teleological,strong.bouletic,weak necessity.epistemic,weak necessity.deontic,weak.irealis,weak.necessity.hortative,weak.permissive,weak necessity.intentional,weak.volitional,strong.volitional
+Donmari,saka-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Donmari,bidd-,NA,1,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Donmari,xallī,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Donmari,lāzem,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gitksan,ima(’a),NA,NA,NA,0,0,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gitksan,gat,NA,NA,NA,0,0,1,1,0,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gitksan,da’akhlxw,NA,NA,NA,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gitksan,anook(xw),NA,NA,NA,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gitksan,sgi,NA,NA,NA,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Goemai,t'óng,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Goemai,gòe,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Goemai,ǹ-,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Goemai,bòe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Goemai,mán,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hinuq,k'ʷ ezi -iqi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hinuq,ko ň ’e-/ko ň ’er,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hinuq,-eq’i,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hinuq,-ese-/-es-,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hinuq,-aru-/-ru,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+javanese-paciran,mesthi,NA,?,NA,0,0,0,NA,0,1,NA,0,NA,NA,NA,NA,?,?,?,NA,NA,NA,NA,NA,NA,NA,NA
+javanese-paciran,paleng,NA,?,NA,?,?,1,NA,0,0,NA,0,NA,NA,NA,NA,?,?,?,NA,NA,NA,NA,NA,NA,NA,NA
+javanese-paciran,oleh,NA,?,NA,1,0,0,NA,0,0,NA,0,NA,NA,NA,NA,?,?,?,NA,NA,NA,NA,NA,NA,NA,NA
+javanese-paciran,iso,NA,?,NA,0,0,0,NA,1,0,NA,0,NA,NA,NA,NA,?,?,?,NA,NA,NA,NA,NA,NA,NA,NA
+javanese-paciran,kudu1,NA,0,NA,0,1,0,NA,0,0,NA,1,NA,NA,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+javanese-paciran,kudu2,NA,0,NA,0,0,0,NA,0,0,NA,0,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+Mani,lɛ̀,NA,NA,NA,NA,1,NA,NA,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,?,NA,NA,NA,NA,NA,NA
+Mani,lɛ̀lɛ̀,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mani,ce,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mani,bi,NA,NA,NA,NA,?,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mian,-aamab/-omab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mian,-mab/-omab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Mian,-aam,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mian,-Vm,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mian,-an=o/-al=e/-ek=o/-ok=o/-om=o/-in=e,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+Nuosu,ddie ddur,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,tat xi,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,ssox/ ddip ssox,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,get,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,hxit,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+Nuosu,dop,NA,NA,NA,?,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+Nuosu,yix syp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,hxi nyi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Nuosu,mo mgu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Nuosu,mo ddix,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,jox dop(?),NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,qi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Nuosu,hna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+Nuosu,but,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+tlingit,gwál,NA,NA,NA,0,?,1,NA,0,0,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tlingit,giwe,NA,NA,NA,0,?,1,NA,0,0,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tlingit,shákdé,NA,NA,NA,0,?,1,NA,0,0,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tlingit,future mode,NA,NA,NA,?,0,?,NA,0,0,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tlingit,potential mode,NA,NA,NA,0,?,0,NA,1,?,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
