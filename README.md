@@ -27,4 +27,4 @@ Each row is one observation: `can_express` has values stating whether or not an 
 * improve force / flavor tables
     - add basic tables w/ descriptions in basic-format, and to contribution guide
     - update `cldfbench_modals.py` to reflect this
-* add extra lang metadata columns to CLDF format
+* GitHub actions for running `combine_data.R` and `build.sh` on commit?
