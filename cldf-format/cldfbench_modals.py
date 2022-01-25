@@ -14,9 +14,9 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         args.writer.cldf.add_component("ParameterTable")
+        # TODO: add columns to LanguageTable custom to our data
         args.writer.cldf.add_component("LanguageTable")
         # new, non-standard tables
-        # NOTE: should the column names use `term_uri` and, if so, how?
         args.writer.cldf.add_table(
             "unit-parameters.csv",
             {
@@ -37,7 +37,7 @@ class Dataset(BaseDataset):
             {
                 "name": "Value",
                 # FIXME: valueReference should be added to the ontology, in analogy to formReference.
-                #"propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#valueReference",
+                # "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#valueReference",
             },
             "UnitParameter_ID",
             "UnitValue",
@@ -50,7 +50,8 @@ class Dataset(BaseDataset):
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
             },
-            "Name", "Description"
+            "Name",
+            "Description",
         )
         args.writer.cldf.add_table(
             "forces.csv",
@@ -58,22 +59,23 @@ class Dataset(BaseDataset):
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
             },
-            "Name", "Description"
+            "Name",
+            "Description",
         )
-        args.writer.cldf.add_foreign_key(
-            "unit-values.csv", "Value", "ValueTable", "ID"
-        )
+        args.writer.cldf.add_foreign_key("unit-values.csv", "Value", "ValueTable", "ID")
         args.writer.cldf.add_foreign_key(
             "unit-values.csv", "UnitParameter_ID", "unit-parameters.csv", "ID"
         )
         args.writer.cldf.add_foreign_key(
-            "unit-parameters.csv", "flavor", "flavors.csv", "Name" 
+            "unit-parameters.csv", "flavor", "flavors.csv", "Name"
         )
         args.writer.cldf.add_foreign_key(
             "unit-parameters.csv", "force", "forces.csv", "Name"
         )
 
         # link forces
+
+        languoids_by_glottocode = {l.id: l for l in args.glottolog.api.languoids()}
 
         modal_id = 0
         args.writer.objects["ParameterTable"].append(dict(ID="modal"))
@@ -87,7 +89,18 @@ class Dataset(BaseDataset):
             ),
             lambda r: r["lang_ID"],
         ):
-            args.writer.objects["LanguageTable"].append(dict(ID=lid))
+            glottolang = languoids_by_glottocode[lid]
+            args.writer.objects["LanguageTable"].append(
+                dict(
+                    ID=lid,
+                    Name=glottolang.name,
+                    Macroarea=glottolang.macroareas[0].name,
+                    Latitude=glottolang.latitude,
+                    Longitude=glottolang.longitude,
+                    Glottocode=glottolang.glottocode,
+                    ISO639P3code=glottolang.iso_code,
+                )
+            )
             for modal, rrows in itertools.groupby(rows, lambda r: r["expression"]):
                 args.writer.objects["ValueTable"].append(
                     dict(
@@ -116,7 +129,12 @@ class Dataset(BaseDataset):
         for idx, pair in enumerate(force_flavor_pairs):
             # TODO: refactor naming of pairs
             args.writer.objects["unit-parameters.csv"].append(
-                dict(ID=f"{pair[0]}.{pair[1]}", Name=f"{pair[0]}.{pair[1]}", force=pair[0], flavor=pair[1])
+                dict(
+                    ID=f"{pair[0]}.{pair[1]}",
+                    Name=f"{pair[0]}.{pair[1]}",
+                    force=pair[0],
+                    flavor=pair[1],
+                )
             )
 
         forces = sorted(set(pair[0] for pair in force_flavor_pairs))
