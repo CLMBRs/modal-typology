@@ -1,11 +1,11 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-bull1247,Bullom So,Africa,9.0,-13.16,bull1247,buy
-doma1258,Domari,Eurasia,32.0,35.0,doma1258,rmt
-gitx1241,Gitxsan,North America,55.09,-128.08,gitx1241,git
-goem1240,Goemai,Africa,8.74455,9.72453,goem1240,ank
-hinu1240,Hinuq,Eurasia,42.4502,45.8064,hinu1240,gin
-java1254,Javanese,Papunesia,-7.001,109.287,java1254,jav
-mian1256,Mian,Papunesia,-4.70881,141.523,mian1256,mpt
-nort2722,Northern Qiang,Eurasia,32.2766,103.192,nort2722,cng
-sich1238,Sichuan Yi,Eurasia,28.1947,102.121,sich1238,iii
-tlin1245,Tlingit,North America,59.4447,-135.29,tlin1245,tli
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Family,Complete_language,Reference,Reference_type,Reference_URL
+bull1247,Bullom So,Africa,9.0,-13.16,bull1247,buy,Atlantic-Congo [atla1278],TRUE,Childs. (2011). A grammar of Mani. De Gruyter Mouton.,reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=835471.
+doma1258,Domari,Eurasia,32.0,35.0,doma1258,rmt,Indo-European [indo1319],TRUE,"Matras, Y. (2012). A grammar of domari. De Gruyter, Inc..",reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=912837.
+gitx1241,Gitxsan,North America,55.09,-128.08,gitx1241,git,Tsimshian [tsim1258],TRUE,"Matthewson, L. (2013). Gitksan Modals. International Journal of American Linguistics, 79(3), 349–394. https://doi.org/10.1086/670751",paper_journal,https://doi.org/10.1086/670751
+goem1240,Goemai,Africa,8.74455,9.72453,goem1240,ank,Afro-Asiatic [afro1255],TRUE,Hellwig. (2011). A grammar of Goemai. De Gruyter Mouton.,reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=787185.
+hinu1240,Hinuq,Eurasia,42.4502,45.8064,hinu1240,gin,Nakh-Daghestanian [nakh1245],TRUE,"Forker, D. (2013). A grammar of hinuq. De Gruyter, Inc..",reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=1037924.
+java1254,Javanese,Papunesia,-7.001,109.287,java1254,jav,Austronesian [aust1307],TRUE,"Vander Klok, Jozina. “Pure Possibility and Pure Necessity Modals in Paciran Javanese.” Oceanic Linguistics, vol. 52, no. 2, 2013, pp. 341–374.",paper_journal,https://www.jstor.org/stable/43286355
+mian1256,Mian,Papunesia,-4.70881,141.523,mian1256,mpt,Nuclear Trans New Guinea [nucl1709],TRUE,"Fedden, S. (2011). A grammar of mian. De Gruyter, Inc..",reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=799437.
+nort2722,Northern Qiang,Eurasia,32.2766,103.192,nort2722,cng,Sino-Tibetan [sino1245],TRUE,"LaPolla, R. J., & Huang, C. (2003). A grammar of Qiang With annotated texts and glossary. De Gruyter, Inc..",reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=325680.
+sich1238,Sichuan Yi,Eurasia,28.1947,102.121,sich1238,iii,Sino-Tibetan [sino1245],TRUE,Gerner. (2013). A grammar of Nuosu. De Gruyter Mouton.,reference_grammar,https://ebookcentral.proquest.com/lib/washington/detail.action?docID=1498689.
+tlin1245,Tlingit,North America,59.4447,-135.29,tlin1245,tli,Athabaskan-Eyak-Tlingit [atha1245],TRUE,"Cable, S. (2017). The Expression of Modality in Tlingit: A Paucity of Grammatical Devices. International Journal of American Linguistics, 83(4), 619–678. https://doi.org/10.1086/692975",paper_journal,https://doi.org/10.1086/692975

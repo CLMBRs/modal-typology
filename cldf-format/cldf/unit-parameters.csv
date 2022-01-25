@@ -1,31 +1,31 @@
 ID,Name,Description,force,flavor
-weak.deontic,weak.deontic,,weak,deontic
-weak.future,weak.future,,weak,future
-weak.permissive,weak.permissive,,weak,permissive
 stong.deontic,stong.deontic,,stong,deontic
-weak.volitional,weak.volitional,,weak,volitional
-weak.epistemic,weak.epistemic,,weak,epistemic
-strong.intentional,strong.intentional,,strong,intentional
+strong.ability,strong.ability,,strong,ability
 strong.bouletic,strong.bouletic,,strong,bouletic
-weak.irrealis,weak.irrealis,,weak,irrealis
-weak.circumstantial,weak.circumstantial,,weak,circumstantial
-weak.necessity.hortative,weak.necessity.hortative,,weak.necessity,hortative
-weak necessity.intentional,weak necessity.intentional,,weak necessity,intentional
-weak.teleological,weak.teleological,,weak,teleological
-strong.deontic,strong.deontic,,strong,deontic
-strong.volitional,strong.volitional,,strong,volitional
-strong.future,strong.future,,strong,future
-weak.reportative,weak.reportative,,weak,reportative
-strong.epistemic,strong.epistemic,,strong,epistemic
-weak.ability,weak.ability,,weak,ability
-strong.epstemic,strong.epstemic,,strong,epstemic
-weak necessity.deontic,weak necessity.deontic,,weak necessity,deontic
 strong.circumstantial,strong.circumstantial,,strong,circumstantial
+strong.deontic,strong.deontic,,strong,deontic
+strong.epistemic,strong.epistemic,,strong,epistemic
+strong.epstemic,strong.epstemic,,strong,epstemic
+strong.future,strong.future,,strong,future
+strong.intentional,strong.intentional,,strong,intentional
+strong.reportative,strong.reportative,,strong,reportative
 strong.teleological,strong.teleological,,strong,teleological
+strong.volitional,strong.volitional,,strong,volitional
+weak.ability,weak.ability,,weak,ability
+weak.bouletic,weak.bouletic,,weak,bouletic
+weak.circumstantial,weak.circumstantial,,weak,circumstantial
+weak.deontic,weak.deontic,,weak,deontic
+weak.epistemic,weak.epistemic,,weak,epistemic
+weak.future,weak.future,,weak,future
+weak.intentional,weak.intentional,,weak,intentional
+weak.irealis,weak.irealis,,weak,irealis
+weak.irrealis,weak.irrealis,,weak,irrealis
+weak.permissive,weak.permissive,,weak,permissive
+weak.reportative,weak.reportative,,weak,reportative
+weak.teleological,weak.teleological,,weak,teleological
+weak.volitional,weak.volitional,,weak,volitional
+weak necessity.deontic,weak necessity.deontic,,weak necessity,deontic
 weak necessity.epistemic,weak necessity.epistemic,,weak necessity,epistemic
 weak necessity.epstemic,weak necessity.epstemic,,weak necessity,epstemic
-weak.intentional,weak.intentional,,weak,intentional
-weak.bouletic,weak.bouletic,,weak,bouletic
-strong.reportative,strong.reportative,,strong,reportative
-strong.ability,strong.ability,,strong,ability
-weak.irealis,weak.irealis,,weak,irealis
+weak necessity.intentional,weak necessity.intentional,,weak necessity,intentional
+weak.necessity.hortative,weak.necessity.hortative,,weak.necessity,hortative

@@ -14,8 +14,14 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         args.writer.cldf.add_component("ParameterTable")
-        # TODO: add columns to LanguageTable custom to our data
         args.writer.cldf.add_component("LanguageTable")
+        args.writer.cldf.add_columns("LanguageTable",
+            "Family",
+            "Complete_language",
+            "Reference",
+            "Reference_type",
+            "Reference_URL",
+        )
         # new, non-standard tables
         args.writer.cldf.add_table(
             "unit-parameters.csv",
@@ -76,6 +82,7 @@ class Dataset(BaseDataset):
         # link forces
 
         languoids_by_glottocode = {l.id: l for l in args.glottolog.api.languoids()}
+        langs_metadata = self.raw_dir.read_csv("all_metadata.csv", dicts=True)
 
         modal_id = 0
         args.writer.objects["ParameterTable"].append(dict(ID="modal"))
@@ -90,15 +97,22 @@ class Dataset(BaseDataset):
             lambda r: r["lang_ID"],
         ):
             glottolang = languoids_by_glottocode[lid]
+            # TODO: better way of doing this?
+            this_metadata = [lang_meta for lang_meta in langs_metadata if lang_meta["Glotto.code"] == lid][0]
             args.writer.objects["LanguageTable"].append(
                 dict(
                     ID=lid,
                     Name=glottolang.name,
+                    Glottocode=glottolang.glottocode,
+                    ISO639P3code=glottolang.iso_code,
                     Macroarea=glottolang.macroareas[0].name,
                     Latitude=glottolang.latitude,
                     Longitude=glottolang.longitude,
-                    Glottocode=glottolang.glottocode,
-                    ISO639P3code=glottolang.iso_code,
+                    Family=glottolang.family,
+                    Complete_language=this_metadata["Complete_language"],
+                    Reference=this_metadata["Reference"],
+                    Reference_type=this_metadata["Reference_type"],
+                    Reference_URL=this_metadata["URL"],
                 )
             )
             for modal, rrows in itertools.groupby(rows, lambda r: r["expression"]):
@@ -126,7 +140,7 @@ class Dataset(BaseDataset):
                         args.writer.objects["unit-values.csv"].append(test_dict)
                 modal_id += 1
 
-        for idx, pair in enumerate(force_flavor_pairs):
+        for idx, pair in enumerate(sorted(force_flavor_pairs)):
             # TODO: refactor naming of pairs
             args.writer.objects["unit-parameters.csv"].append(
                 dict(
