@@ -1,0 +1,206 @@
+lang_ID,language,expression,force,flavor,can_express,notes
+doma1258,Donmari,saka-,strong,ability,1,translates to 'be able to'
+doma1258,Donmari,bidd-,weak,bouletic,1,"translates to 'want'(p286), put it as bouletic but not sure if it's also intentional, and can also express likelihood of anticipated future event"
+doma1258,Donmari,bidd-,weak,intentional,?,NA
+doma1258,Donmari,xallī,weak,deontic,1,"translates to 'allow', categorized as permissive"
+doma1258,Donmari,lāzem,strong,deontic,1,"a impersonal particle(p287), not sure if it can also be epistemic"
+gitx1241,Gitksan,ima(’a),weak,epistemic,1,NA
+gitx1241,Gitksan,ima(’a),weak,reportative,0,NA
+gitx1241,Gitksan,ima(’a),weak,deontic,0,NA
+gitx1241,Gitksan,ima(’a),weak,circumstantial,0,NA
+gitx1241,Gitksan,ima(’a),strong,epistemic,1,NA
+gitx1241,Gitksan,ima(’a),strong,reportative,0,NA
+gitx1241,Gitksan,ima(’a),strong,deontic,0,NA
+gitx1241,Gitksan,ima(’a),strong,circumstantial,0,NA
+gitx1241,Gitksan,gat,weak,epistemic,1,NA
+gitx1241,Gitksan,gat,weak,reportative,1,NA
+gitx1241,Gitksan,gat,weak,deontic,0,NA
+gitx1241,Gitksan,gat,weak,circumstantial,0,NA
+gitx1241,Gitksan,gat,strong,epistemic,1,NA
+gitx1241,Gitksan,gat,strong,reportative,1,NA
+gitx1241,Gitksan,gat,strong,deontic,0,NA
+gitx1241,Gitksan,gat,strong,circumstantial,0,NA
+gitx1241,Gitksan,da’akhlxw,weak,epistemic,0,NA
+gitx1241,Gitksan,da’akhlxw,weak,reportative,0,NA
+gitx1241,Gitksan,da’akhlxw,weak,deontic,0,NA
+gitx1241,Gitksan,da’akhlxw,weak,circumstantial,1,NA
+gitx1241,Gitksan,da’akhlxw,strong,epistemic,0,NA
+gitx1241,Gitksan,da’akhlxw,strong,reportative,0,NA
+gitx1241,Gitksan,da’akhlxw,strong,deontic,0,NA
+gitx1241,Gitksan,da’akhlxw,strong,circumstantial,0,NA
+gitx1241,Gitksan,anook(xw),weak,epistemic,0,NA
+gitx1241,Gitksan,anook(xw),weak,reportative,0,NA
+gitx1241,Gitksan,anook(xw),weak,deontic,1,NA
+gitx1241,Gitksan,anook(xw),weak,circumstantial,0,NA
+gitx1241,Gitksan,anook(xw),strong,epistemic,0,NA
+gitx1241,Gitksan,anook(xw),strong,reportative,0,NA
+gitx1241,Gitksan,anook(xw),strong,deontic,0,NA
+gitx1241,Gitksan,anook(xw),strong,circumstantial,0,NA
+gitx1241,Gitksan,sgi,weak,epistemic,0,NA
+gitx1241,Gitksan,sgi,weak,reportative,0,NA
+gitx1241,Gitksan,sgi,weak,deontic,0,NA
+gitx1241,Gitksan,sgi,weak,circumstantial,0,NA
+gitx1241,Gitksan,sgi,strong,epistemic,0,NA
+gitx1241,Gitksan,sgi,strong,reportative,0,NA
+gitx1241,Gitksan,sgi,strong,deontic,1,NA
+gitx1241,Gitksan,sgi,strong,circumstantial,1,NA
+goem1240,Goemai,t'óng,weak,irrealis,1,"p358 describes t'óng as irrealis, under the context of epstemic modality, intention, polite rquest and conterfactual contexts, it would become near-obligatory if in future context(359). The author recognize t'óng as a modality that occurs in non-future irealis contexts."
+goem1240,Goemai,t'óng,weak,future,1,It can occur in future context but does not fulfill the future tense marker criterion (360)
+goem1240,Goemai,gòe,strong,deontic,1,categorized as 'obligative' and translates to 'should' or 'was obliged to' (362)
+goem1240,Goemai,ǹ-,weak,deontic,1,"categorized as 'permissive' (364), translates as allowing,enabling"
+goem1240,Goemai,bòe,weak,irrealis,1,"categorized as 'irrealis(focused)' (365), but the semantics difference between bòe and irrealis t'óng is not clear"
+goem1240,Goemai,mán,weak,irrealis,1,"categorized as 'irrealis(negative)',occurs in a negated irrealis context and delivers prohibitive manner(366)"
+hinu1240,Hinuq,k'ʷ ezi -iqi,weak,ability,1,translates to 'can' and require most prominant argument marked with At-Essive case(which also shows up in potential construction)
+hinu1240,Hinuq,ko ň ’e-/ko ň ’er,weak,ability,1,"translates to can,know how (601)"
+hinu1240,Hinuq,-eq’i,weak,ability,1,"translates to can,know how to (601)"
+hinu1240,Hinuq,-ese-/-es-,weak,epistemic,1,"when attached by realis conditional suffix -yo, will only have realis conditional meaning. It can also marked with intentional future suffix =e (297)."
+hinu1240,Hinuq,-aru-/-ru,strong,intentional,1,"""describes actions and events that are intended or planned by their agents""(298)"
+java1254,Javanese-Paciran,mesthi,weak,epistemic,0,NA
+java1254,Javanese-Paciran,mesthi,weak,deontic,0,NA
+java1254,Javanese-Paciran,mesthi,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,mesthi,weak,teleological,?,NA
+java1254,Javanese-Paciran,mesthi,weak,bouletic,?,NA
+java1254,Javanese-Paciran,mesthi,strong,epistemic,1,NA
+java1254,Javanese-Paciran,mesthi,strong,deontic,0,NA
+java1254,Javanese-Paciran,mesthi,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,mesthi,strong,teleological,?,NA
+java1254,Javanese-Paciran,mesthi,strong,bouletic,?,NA
+java1254,Javanese-Paciran,paleng,weak,epistemic,1,NA
+java1254,Javanese-Paciran,paleng,weak,deontic,?,NA
+java1254,Javanese-Paciran,paleng,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,paleng,weak,teleological,?,NA
+java1254,Javanese-Paciran,paleng,weak,bouletic,?,NA
+java1254,Javanese-Paciran,paleng,strong,epistemic,0,"may also express this, but Vander Klok argues that it's due to cultural differences in pragmatic stengthening"
+java1254,Javanese-Paciran,paleng,strong,deontic,?,NA
+java1254,Javanese-Paciran,paleng,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,paleng,strong,teleological,?,NA
+java1254,Javanese-Paciran,paleng,strong,bouletic,?,NA
+java1254,Javanese-Paciran,oleh,weak,epistemic,0,NA
+java1254,Javanese-Paciran,oleh,weak,deontic,1,NA
+java1254,Javanese-Paciran,oleh,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,oleh,weak,teleological,?,NA
+java1254,Javanese-Paciran,oleh,weak,bouletic,?,NA
+java1254,Javanese-Paciran,oleh,strong,epistemic,0,NA
+java1254,Javanese-Paciran,oleh,strong,deontic,0,NA
+java1254,Javanese-Paciran,oleh,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,oleh,strong,teleological,?,NA
+java1254,Javanese-Paciran,oleh,strong,bouletic,?,NA
+java1254,Javanese-Paciran,iso,weak,epistemic,0,NA
+java1254,Javanese-Paciran,iso,weak,deontic,0,NA
+java1254,Javanese-Paciran,iso,weak,circumstantial,1,NA
+java1254,Javanese-Paciran,iso,weak,teleological,?,NA
+java1254,Javanese-Paciran,iso,weak,bouletic,?,NA
+java1254,Javanese-Paciran,iso,strong,epistemic,0,NA
+java1254,Javanese-Paciran,iso,strong,deontic,0,NA
+java1254,Javanese-Paciran,iso,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,iso,strong,teleological,?,NA
+java1254,Javanese-Paciran,iso,strong,bouletic,?,NA
+java1254,Javanese-Paciran,kudu1,weak,epistemic,0,NA
+java1254,Javanese-Paciran,kudu1,weak,deontic,0,NA
+java1254,Javanese-Paciran,kudu1,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu1,weak,teleological,0,NA
+java1254,Javanese-Paciran,kudu1,weak,bouletic,0,NA
+java1254,Javanese-Paciran,kudu1,strong,epistemic,0,NA
+java1254,Javanese-Paciran,kudu1,strong,deontic,1,NA
+java1254,Javanese-Paciran,kudu1,strong,circumstantial,1,NA
+java1254,Javanese-Paciran,kudu1,strong,teleological,1,NA
+java1254,Javanese-Paciran,kudu1,strong,bouletic,0,NA
+java1254,Javanese-Paciran,kudu2,weak,epistemic,0,NA
+java1254,Javanese-Paciran,kudu2,weak,deontic,0,NA
+java1254,Javanese-Paciran,kudu2,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu2,weak,teleological,0,NA
+java1254,Javanese-Paciran,kudu2,weak,bouletic,0,NA
+java1254,Javanese-Paciran,kudu2,strong,epistemic,0,NA
+java1254,Javanese-Paciran,kudu2,strong,deontic,0,NA
+java1254,Javanese-Paciran,kudu2,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu2,strong,teleological,0,NA
+java1254,Javanese-Paciran,kudu2,strong,bouletic,1,NA
+bull1247,Mani,lɛ̀,strong,deontic,1,p91 translates to 'it is necessary'. It is categorized as 'deontic force along with a probably epstemic component'(p86)
+bull1247,Mani,lɛ̀,weak necessity,epistemic,1,"p114 translates to 'should', and this was used to express epistemically (indicate speaker's belief about the state of affairs)"
+bull1247,Mani,lɛ̀,strong,epistemic,?,not sure since p86 also says it could express a epstemic component
+bull1247,Mani,lɛ̀,weak necessity,deontic,?,not sure since p114 translate the word to 'should' in a deontic manner
+bull1247,Mani,lɛ̀lɛ̀,strong,deontic,1,p91 describes reduplicated form lɛ̀lɛ̀ have a stronger obligation and intensity
+bull1247,Mani,ce,weak,irrealis,1,"a copular verb, shares some imperfective meaning and is referred as irrealis copula(p86)"
+bull1247,Mani,bi,strong,epistemic,1,"p114 translates to 'have to',but says it is in a sense that speaker is certain of the predication, and qualifies as epistemic"
+bull1247,Mani,bi,strong,deontic,?,not sure since p114 translates to 'have to' in a deontic expression
+mian1256,Mian,-aamab/-omab,weak,irrealis,1,"translates to 'will' or 'going to' but categorized as 'irrealis'(309),appear in perfective without auxilary(p284)"
+mian1256,Mian,-mab/-omab,weak,irealis,1,"translates to 'will' or 'going to' but categorized as 'irrealis'(309),p284 says it can appear in imperfective"
+mian1256,Mian,-aam,strong,deontic,1,p311 translates as 'must'
+mian1256,Mian,-Vm,strong,deontic,1,"V indicates the regressive vowel harmony, and translates to 'should' / 'must not' in negation(309), could also express conditional(310)"
+mian1256,Mian,-an=o/-al=e/-ek=o/-ok=o/-om=o/-in=e,weak.necessity,hortative,1,hortative is expressed through a hortative subject suffixes and illocutionary particles (p311). p313 translates some to 'shoud' but the sentence is expressing speakers' willingness to do something
+sich1238,Nuosu,ddie ddur,strong,deontic,1,"p363 says this refer to needs that can be access in objective manner, but they also list sentences such as 'He need to tell you something' which feels a little deontic"
+sich1238,Nuosu,ddie ddur,strong,circumstantial,?,NA
+sich1238,Nuosu,tat xi,weak,deontic,1,p363 categorizes tat xi and ssox as weak deontic
+sich1238,Nuosu,ssox/ ddip ssox,weak,deontic,1,"tat xi expresses meaning of general obligation, ssox expresses meaning of involuntary obligation' (p364). Another quotative version ddip ssox is used when expressed verbally(365)"
+sich1238,Nuosu,get,weak,epistemic,1,"get' also have abstract epistemic meaning, it also involves in existential construction (p369)"
+sich1238,Nuosu,hxit,weak,deontic,1,"p369 says it expresses external and moral permission, so I put it under permissive and ability,but not very sure"
+sich1238,Nuosu,hxit,weak,permissive,1,NA
+sich1238,Nuosu,hxit,weak,ability,1,NA
+sich1238,Nuosu,dop,weak,epistemic,1,"permissive,ability and epstemic (p369)"
+sich1238,Nuosu,dop,weak,permissive,1,NA
+sich1238,Nuosu,dop,weak,deontic,?,not sure whether permissive should be categorized as weak deontic since this language specfically list weak deontic as a separate category
+sich1238,Nuosu,dop,weak,ability,1,NA
+sich1238,Nuosu,yix syp,weak,ability,1,has a stricter sense of 'know-how' (p371)
+sich1238,Nuosu,hxi nyi,weak necessity,intentional,1,"hxi niy' tranlates to intend, and its literal meaning is heart-sit, put it as intentional"
+sich1238,Nuosu,mo mgu,weak necessity,intentional,1,"also translates to intend and have similar meaning but literal meaning is 'see-think'(373),  put it as intentional"
+sich1238,Nuosu,mo ddix,strong,intentional,1,"similar to mo mgu but more intense(374), translates to 'commited', put it as intentional"
+sich1238,Nuosu,jox dop(?),weak,intentional,1,"translates to 'prepared to' (375),not sure how to put it"
+sich1238,Nuosu,qi,strong,bouletic,1,"p 365 describes 'qi' and 'hna' as general bluetic and consented bluetic, put them under bouletic(I think bluetic is a typo)"
+sich1238,Nuosu,hna,weak,volitional,1,p366 translated 'be willing to'
+sich1238,Nuosu,but,strong,volitional,1,"p367 translates 'but' to dare, eg: 'people don't dare to pass on the side road'(368)"
+nort2722,Qiang,ɕtɕaq-lu,strong,bouletic,1,"the book categorize as optative, as wanting to do something, so I put it under bouletic(187)"
+nort2722,Qiang,ɕtɕaq-lu,strong,intentional,1,189 also categorizes the expression to be intentional
+nort2722,Qiang,lu,strong,future,1,"the book categorize as optative, p187 translates to 'will' so put it under future"
+nort2722,Qiang,zulu,strong,bouletic,1,"categorized as optative, the word is glossed as 'wait' and the sentence translates to 'hope' (187)"
+nort2722,Qiang,ma-ŋuə-tɕi,strong,bouletic,1,"categorized as optative, the particle glossed as NEG-COP-ADV and translates to hope"
+nort2722,Qiang,-ʂu,strong,bouletic,1,categoried as second person directive particle and 'can be used as a strong expression of desire for the addressee to perform a particular action'(188)
+nort2722,Qiang,various perspective aspect form(),strong,intentional,1,189 categorized as intentional and says it has a stronger sense of intention than the use of ŋuə-ɳi
+nort2722,Qiang,ŋuə-ɳi,strong,intentional,1,189 says the particle can be used in some contexts to express intention
+nort2722,Qiang,ŋuə-ɳi,strong,bouletic,1,"187 says it's optative, the particle glossed as COP-ADV, and translates to hope"
+nort2722,Qiang,ŋuə-ɳi,strong,deontic,1,"189 says the main meaning is obligation, and translates to 'have to' in 191"
+nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,strong,deontic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
+nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,weak necessity,deontic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
+nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,strong,epstemic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
+nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,weak necessity,epstemic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
+nort2722,Qiang,tɕa-ŋu̥ə̥,stong,deontic,1,"glossed as CON-COP in 194, and translated to must/shouldn't"
+nort2722,Qiang,ʁze,weak necessity,deontic,1,glossed as 'must' but translates to 'ought to' (194)
+nort2722,Qiang,ʁze,strong,deontic,?,glossed as 'must' but translates to 'ought to' (194)
+nort2722,Qiang,yʐə,strong,ability,1,195 categorize as potential and says its for learned ablitiy
+nort2722,Qiang,dʐə,strong,ability,1,categorized as potential and used for natural/physical ability(195)
+nort2722,Qiang,qe,strong,ability,1,categorized as potential and used for natural/physical ability(195)
+nort2722,Qiang,gu,strong,ability,1,only one example in 196 and the example feels more circumstantial
+nort2722,Qiang,ʁu,weak,deontic,1,categorized as potential but 196 says it express the sense of 'willing' or 'be allowed'
+nort2722,Qiang,se,weak,deontic,1,categorized as potential but 196 says it express the sense of 'willing' or 'be allowed'
+nort2722,Qiang,je,weak,ability,1,196 says it express a sense of possiblity
+nort2722,Qiang,me-tɕhi,weak,deontic,1,"197 says it could express permission as well as ability,glossed as NEG-want even though the reading is not negated"
+nort2722,Qiang,me-tɕhi,weak,ability,1,"197 says it could express permission as well as ability,glossed as NEG-want even though the reading is not negated"
+tlin1245,Tlingit,gwál,weak,epistemic,1,asdf
+tlin1245,Tlingit,gwál,strong,epistemic,0,asgaweg
+tlin1245,Tlingit,gwál,weak,circumstantial,0,NA
+tlin1245,Tlingit,gwál,strong,circumstantial,?,NA
+tlin1245,Tlingit,gwál,weak,deontic,0,NA
+tlin1245,Tlingit,gwál,strong,deontic,?,NA
+tlin1245,Tlingit,giwe,weak,epistemic,1,NA
+tlin1245,Tlingit,giwe,strong,epistemic,0,NA
+tlin1245,Tlingit,giwe,weak,circumstantial,0,NA
+tlin1245,Tlingit,giwe,strong,circumstantial,?,NA
+tlin1245,Tlingit,giwe,weak,deontic,0,NA
+tlin1245,Tlingit,giwe,strong,deontic,?,NA
+tlin1245,Tlingit,shákdé,weak,epistemic,1,NA
+tlin1245,Tlingit,shákdé,strong,epistemic,0,NA
+tlin1245,Tlingit,shákdé,weak,circumstantial,0,NA
+tlin1245,Tlingit,shákdé,strong,circumstantial,?,NA
+tlin1245,Tlingit,shákdé,weak,deontic,0,NA
+tlin1245,Tlingit,shákdé,strong,deontic,?,NA
+tlin1245,Tlingit,future mode,weak,epistemic,?,NA
+tlin1245,Tlingit,future mode,strong,epistemic,0,NA
+tlin1245,Tlingit,future mode,weak,circumstantial,0,NA
+tlin1245,Tlingit,future mode,strong,circumstantial,1,NA
+tlin1245,Tlingit,future mode,weak,deontic,?,NA
+tlin1245,Tlingit,future mode,strong,deontic,0,NA
+tlin1245,Tlingit,potential mode,weak,epistemic,0,NA
+tlin1245,Tlingit,potential mode,strong,epistemic,?,NA
+tlin1245,Tlingit,potential mode,weak,circumstantial,1,NA
+tlin1245,Tlingit,potential mode,strong,circumstantial,0,NA
+tlin1245,Tlingit,potential mode,weak,deontic,0,NA
+tlin1245,Tlingit,potential mode,strong,deontic,?,NA
