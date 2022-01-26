@@ -1,11 +1,9 @@
 ID,Name,Description,force,flavor
-stong.deontic,stong.deontic,,stong,deontic
 strong.ability,strong.ability,,strong,ability
 strong.bouletic,strong.bouletic,,strong,bouletic
 strong.circumstantial,strong.circumstantial,,strong,circumstantial
 strong.deontic,strong.deontic,,strong,deontic
 strong.epistemic,strong.epistemic,,strong,epistemic
-strong.epstemic,strong.epstemic,,strong,epstemic
 strong.future,strong.future,,strong,future
 strong.intentional,strong.intentional,,strong,intentional
 strong.reportative,strong.reportative,,strong,reportative
@@ -18,7 +16,6 @@ weak.deontic,weak.deontic,,weak,deontic
 weak.epistemic,weak.epistemic,,weak,epistemic
 weak.future,weak.future,,weak,future
 weak.intentional,weak.intentional,,weak,intentional
-weak.irealis,weak.irealis,,weak,irealis
 weak.irrealis,weak.irrealis,,weak,irrealis
 weak.permissive,weak.permissive,,weak,permissive
 weak.reportative,weak.reportative,,weak,reportative
@@ -26,6 +23,5 @@ weak.teleological,weak.teleological,,weak,teleological
 weak.volitional,weak.volitional,,weak,volitional
 weak necessity.deontic,weak necessity.deontic,,weak necessity,deontic
 weak necessity.epistemic,weak necessity.epistemic,,weak necessity,epistemic
-weak necessity.epstemic,weak necessity.epstemic,,weak necessity,epstemic
+weak necessity.hortative,weak necessity.hortative,,weak necessity,hortative
 weak necessity.intentional,weak necessity.intentional,,weak necessity,intentional
-weak.necessity.hortative,weak.necessity.hortative,,weak.necessity,hortative
