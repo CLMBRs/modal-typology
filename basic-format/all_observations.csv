@@ -127,7 +127,7 @@ mian1256,Mian,-aamab/-omab,weak,irrealis,1,"translates to 'will' or 'going to' b
 mian1256,Mian,-mab/-omab,weak,irealis,1,"translates to 'will' or 'going to' but categorized as 'irrealis'(309),p284 says it can appear in imperfective"
 mian1256,Mian,-aam,strong,deontic,1,p311 translates as 'must'
 mian1256,Mian,-Vm,strong,deontic,1,"V indicates the regressive vowel harmony, and translates to 'should' / 'must not' in negation(309), could also express conditional(310)"
-mian1256,Mian,-an=o/-al=e/-ek=o/-ok=o/-om=o/-in=e,weak.necessity,hortative,1,hortative is expressed through a hortative subject suffixes and illocutionary particles (p311). p313 translates some to 'shoud' but the sentence is expressing speakers' willingness to do something
+mian1256,Mian,-an=o/-al=e/-ek=o/-ok=o/-om=o/-in=e,weak necessity,hortative,1,hortative is expressed through a hortative subject suffixes and illocutionary particles (p311). p313 translates some to 'shoud' but the sentence is expressing speakers' willingness to do something
 sich1238,Nuosu,ddie ddur,strong,deontic,1,"p363 says this refer to needs that can be access in objective manner, but they also list sentences such as 'He need to tell you something' which feels a little deontic"
 sich1238,Nuosu,ddie ddur,strong,circumstantial,?,NA
 sich1238,Nuosu,tat xi,weak,deontic,1,p363 categorizes tat xi and ssox as weak deontic
@@ -160,9 +160,9 @@ nort2722,Qiang,ŋuə-ɳi,strong,bouletic,1,"187 says it's optative, the particle
 nort2722,Qiang,ŋuə-ɳi,strong,deontic,1,"189 says the main meaning is obligation, and translates to 'have to' in 191"
 nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,strong,deontic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
 nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,weak necessity,deontic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
-nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,strong,epstemic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
-nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,weak necessity,epstemic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
-nort2722,Qiang,tɕa-ŋu̥ə̥,stong,deontic,1,"glossed as CON-COP in 194, and translated to must/shouldn't"
+nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,strong,epistemic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
+nort2722,Qiang,ŋua-(ʂɑ)/ŋua-sɑn/ŋua-ŋua,weak necessity,epistemic,1,"glossed as COP-1/2/3sgU in 190, ""no formal distinction is made between moral and physical obligation. no distinction of degrees of obligation is marked. Epistemic and root modality are expressed using the construction"""
+nort2722,Qiang,tɕa-ŋu̥ə̥,strong,deontic,1,"glossed as CON-COP in 194, and translated to must/shouldn't"
 nort2722,Qiang,ʁze,weak necessity,deontic,1,glossed as 'must' but translates to 'ought to' (194)
 nort2722,Qiang,ʁze,strong,deontic,?,glossed as 'must' but translates to 'ought to' (194)
 nort2722,Qiang,yʐə,strong,ability,1,195 categorize as potential and says its for learned ablitiy
