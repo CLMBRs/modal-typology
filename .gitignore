@@ -1,6 +1,6 @@
 *.DS_Store
 __pycache__
 .vscode
-*.R_Data
-*.R_History
+*.Rdata
+*.Rhistory
 *.here
