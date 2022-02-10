@@ -28,3 +28,4 @@ Each row is one observation: `can_express` has values stating whether or not an 
     - add basic tables w/ descriptions in basic-format, and to contribution guide
     - update `cldfbench_modals.py` to reflect this
 * GitHub actions for running `combine_data.R` and `build.sh` on commit?
+* sources as bibtex?

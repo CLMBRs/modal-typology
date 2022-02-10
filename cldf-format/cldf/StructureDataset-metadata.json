@@ -246,7 +246,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 30,
+            "dc:extent": 26,
             "tableSchema": {
                 "columns": [
                     {
@@ -359,7 +359,7 @@
             "url": "unit-values.csv"
         },
         {
-            "dc:extent": 15,
+            "dc:extent": 13,
             "tableSchema": {
                 "columns": [
                     {
@@ -382,7 +382,7 @@
             "url": "flavors.csv"
         },
         {
-            "dc:extent": 5,
+            "dc:extent": 3,
             "tableSchema": {
                 "columns": [
                     {
