@@ -1,12 +1,12 @@
 ID,Name,Description
-0,ability,
+0,ability, the set of relevant possibilities is a set of abilities of some agent or group of agents
 1,bouletic, the set of relevant possibilities is a set of desires of some agent or group of agents
 2,circumstantial, the set of relevant possibilities is a set of circumstances held in w
 3,deontic,the set of relevant possibilities is a set of rules in force of some agent or group of agents
 4,epistemic,the set of relevant possibilities is a set of facts known to some agent or group of agents
 5,future,
 6,hortative,
-7,intentional,
+7,intentional, the set of relevant possibilities is a set of intentions of some agent or group of agents
 8,irealis,
 9,irrealis,
 10,permissive,
