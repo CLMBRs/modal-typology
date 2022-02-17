@@ -55,6 +55,22 @@ hinu1240,Hinuq,ko ň ’e-/ko ň ’er,weak,ability,1,"translates to can,know ho
 hinu1240,Hinuq,-eq’i,weak,ability,1,"translates to can,know how to (601)"
 hinu1240,Hinuq,-ese-/-es-,weak,epistemic,1,"when attached by realis conditional suffix -yo, will only have realis conditional meaning. It can also marked with intentional future suffix =e (297)."
 hinu1240,Hinuq,-aru-/-ru,strong,intentional,1,"""describes actions and events that are intended or planned by their agents""(298)"
+hupd1244,Hup,=tih,weak,irrealis,1,748 describes the form as having similar distribution as -tæ̃ʔ-
+hupd1244,Hup,-yæ̃́ʔ-,weak,intentional,1,"categorized 'frustrative'(749), the expression signals that an intended or anticipated outcome is not realized(742)"
+hupd1244,Hup,-nɔ́-cud-yæ̃́h-æ̃́h,strong,irealis,1,754 describes the expression as 'should have'
+hupd1244,Hup,-nɨ̂̌ŋ,strong,bouletic,1,"translates to 'let's ... together',757 desrcibes as 'cooperative', and 'creates a type of hortative construction, which indicates that agents should carry out an activitiy in cooperation'"
+hupd1244,Hup,-ʔṹh,strong,bouletic,1,"optative mood that expresses realizable wishes or hopes(766), the expression also have noncurative function occasionally, expresses lack of control (766)"
+hupd1244,Hup,ʔṹh,strong,epistemic,1,"this is a particle, not to confuse with -ʔṹh, describes as epistemic with both strong and weak force (770)"
+hupd1244,Hup,ʔṹh,weak,epistemic,1,NA
+hupd1244,Hup,ʔṹhníy,weak,epistemic,1,"a derived form from ʔṹh, 771 describes as epistemic modality that translates to 'maybe'"
+hupd1244,Hup,=cudʔṹh,strong,epistemic,1,"a derived form from ʔṹh, 772 describes as epistemic modality that translates to both 'must' and 'probably'"
+hupd1244,Hup,=cudʔṹh,weak,epistemic,1,NA
+kumi1248,Jamul-Tipay,-x,weak,irrealis,1,p187 describes the suffx that is denoting a verb that is unrealized
+kumi1248,Jamul-Tipay,-wash,strong,deontic,1,described as 'obligative' and 'indicates that the subject is obligated by outside force or his own conscious(189)
+kumi1248,Jamul-Tipay,-ma,strong,future,1,"p191 desribes as the speaker's personal assurance that an event in which the speaker and hearer will participate, categorized as 'promised future'"
+kumi1248,Jamul-Tipay,-pek,strong,hortative,1,p191 describes as hortative and appear in imperative sentences
+kumi1248,Jamul-Tipay,-kex,strong,epistemic,1,"p193 describes as inferential that follows statement based on inference, put as epistemic"
+kumi1248,Jamul-Tipay,-lly,strong,bouletic,1,"indicates a desire or intention on the part of the speaker for an event to be realized'(193),described as desiderative"
 java1254,Javanese-Paciran,mesthi,weak,epistemic,0,NA
 java1254,Javanese-Paciran,mesthi,weak,deontic,0,NA
 java1254,Javanese-Paciran,mesthi,weak,circumstantial,0,NA
@@ -115,6 +131,22 @@ java1254,Javanese-Paciran,kudu2,strong,deontic,0,NA
 java1254,Javanese-Paciran,kudu2,strong,circumstantial,0,NA
 java1254,Javanese-Paciran,kudu2,strong,teleological,0,NA
 java1254,Javanese-Paciran,kudu2,strong,bouletic,1,NA
+kwaz1243,Kwaza,-tsy-,strong,future,1,"describes as 'potential' (401), also a future marker (607)"
+kwaz1243,Kwaza,-tsy-,weak,epistemic,1,examples in 609 translates to 'may'
+kwaz1243,Kwaza,-tsy-,weak,ability,1,examples in 610 shows that the expression only occurs with negative can indicate inablity when combined with negation
+kwaz1243,Kwaza,damỹ,strong,volitional,1,"describes as 'volitional and intentional' (401), and translates to 'be going to'/'want to' (315)"
+kwaz1243,Kwaza,damỹ,strong,intentional,1,NA
+kwaz1243,Kwaza,damỹ,strong,future,1,put as future since examples in 315 translates the word to 'be going to'
+kwaz1243,Kwaza,-tsi,weak,irrealis,1,"described as 'preventitve' (402) and translates to prevent someone do something, put it as irrealis"
+kwaz1243,Kwaza,-(da)-te-,strong,purposive,1,"described as ''purposive' modality (412), translates as something is used for someone to do something"
+kwaz1243,Kwaza,-(da)-te-,strong,circumstantial,1,so maybe 'circumstainial' is a better choice
+kwaz1243,Kwaza,-(da)-te-,weak,intentional,1,"can also translate to 'be prepared to' (412), put it under weak intentional since it might be similar to an expression in Nuosu"
+kwaz1243,Kwaza,-heta-,strong,bouletic,1,"descibed as 'desdierative' (413) but translates to 'want to', put it as bouletic"
+kwaz1243,Kwaza,-here-,weak,intentional,1,described as 'intentional' and indicates unsuccessful attempt(418)
+kwaz1243,Kwaza,-tehere,weak,epistemic,1,"translate to 'may' and 'it seems' (421), described as 'apparential' (420),the examples in 421 show that the morpheme indicates speaker's knowledge"
+kwaz1243,Kwaza,-tehere,strong,epistemic,1,the examples in 421 also translate to 'must'
+kwaz1243,Kwaza,-cehere,weak,epistemic,1,"similar to -tehere, translate to 'could' (423), described as 'apparential' (423)"
+kwaz1243,Kwaza,-cehere,strong,epistemic,1,the examples in 424 also translate to 'must'
 bull1247,Mani,lɛ̀,strong,deontic,1,p91 translates to 'it is necessary'. It is categorized as 'deontic force along with a probably epstemic component'(p86)
 bull1247,Mani,lɛ̀,weak necessity,epistemic,1,"p114 translates to 'should', and this was used to express epistemically (indicate speaker's belief about the state of affairs)"
 bull1247,Mani,lɛ̀,strong,epistemic,?,not sure since p86 also says it could express a epstemic component
@@ -204,3 +236,8 @@ tlin1245,Tlingit,potential mode,weak,circumstantial,1,NA
 tlin1245,Tlingit,potential mode,strong,circumstantial,0,NA
 tlin1245,Tlingit,potential mode,weak,deontic,0,NA
 tlin1245,Tlingit,potential mode,strong,deontic,?,NA
+pile1238,Vaeakau-Taumako,=a,strong,bouletic,1,p299 describes as 'optative' and 'used to signal that future event is desirable or probable'
+pile1238,Vaeakau-Taumako,=a,strong,deontic,1,examples in 300 indicates 'a' also have deontic use
+pile1238,Vaeakau-Taumako,ke,strong,hortative,1,"used to express a wish that something should happen, or advice on how something should be (300)"
+pile1238,Vaeakau-Taumako,me,strong,deontic,1,"used to form requests and to indicate something should or must be done (301), often used under imperaitve"
+pile1238,Vaeakau-Taumako,na,weak,irrealis,1,used to inidicate distant or uncertain future (302)
