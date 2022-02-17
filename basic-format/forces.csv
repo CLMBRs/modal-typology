@@ -1,4 +1,4 @@
 ID,Name,Description
-0,strong, let W be the domain of f(w), W = ∩f(w)
-1,weak, let W be the domain of f(w), W∩(∩f(w)) ≠ ∅
-2,weak necessity, let W be the domain of f(w), W ⊆ ∩f(w)
+0,strong, let W be the domain of f(w) W = ∩f(w)
+1,weak, let W be the domain of f(w) W∩(∩f(w)) ≠ ∅
+2,weak necessity, let W be the domain of f(w) W ⊆ ∩f(w)
