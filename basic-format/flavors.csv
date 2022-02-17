@@ -5,12 +5,11 @@ ID,Name,Description
 3,deontic,the set of relevant possibilities is a set of rules in force of some agent or group of agents
 4,epistemic,the set of relevant possibilities is a set of facts known to some agent or group of agents
 5,future,
-6,hortative,
+6,hortative, the set of relevant possibilities is a set of desires of some agent or group of agents
 7,intentional, the set of relevant possibilities is a set of intentions of some agent or group of agents
-8,irealis,
-9,irrealis,
-10,permissive,
-11,purposive,
-12,reportative,
-13,teleological,
-14,volitional,
+8,irrealis, the set of relevant possibilities is a set of counterfactual statement known to some agent or group of agents
+9,permissive, the set of relevant possibilities is a set of permissions of some agent or group of agents
+10,purposive,
+11,reportative,
+12,teleological,
+13,volitional, the set of relevant possibilities is a set of desires of some agent or group of agents
