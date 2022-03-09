@@ -3,7 +3,7 @@ Checks the IFF condition for the modals in the dataset
 """
 import itertools
 
-from cldfbench_steinertthrelkeldmodals import Dataset
+from cldfbench_modaltypology import Dataset
 
 
 def run(args):
@@ -29,4 +29,4 @@ def run(args):
         for fo, fl in itertools.product(
             [pair[0] for pair in can], [pair[1] for pair in can]
         ):
-            assert (fo, fl) in can and ((fo, fl) not in cannot)
+            assert (fo, fl) in can and ((fo, fl) not in cannot), f"{modal}: ({fo}, {fl})"

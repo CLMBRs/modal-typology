@@ -2,13 +2,13 @@ from setuptools import setup
 
 
 setup(
-    name='cldfbench_steinertthrelkeldmodals',
-    py_modules=['cldfbench_steinertthrelkeldmodals'],
+    name='cldfbench_modaltypology',
+    py_modules=['cldfbench_modaltypology'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'cldfbench.dataset': [
-            'modals=cldfbench_steinertthrelkeldmodals:Dataset',
+            'modals=cldfbench_modaltypology:Dataset',
         ],
         'cldfbench.commands': [
             'modals=modalscommands',

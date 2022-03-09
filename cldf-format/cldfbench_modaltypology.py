@@ -7,7 +7,7 @@ from pycldf import term_uri
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "modal-typology"
+    id = "modaltypology"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module="StructureDataset", dir=self.cldf_dir)
