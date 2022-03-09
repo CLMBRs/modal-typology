@@ -227,6 +227,10 @@
                         "name": "Complete_language"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "name": "Source"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Reference"
                     },

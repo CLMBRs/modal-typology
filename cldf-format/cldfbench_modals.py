@@ -15,9 +15,14 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         args.writer.cldf.add_component("ParameterTable")
         args.writer.cldf.add_component("LanguageTable")
-        args.writer.cldf.add_columns("LanguageTable",
+        args.writer.cldf.add_columns(
+            "LanguageTable",
             "Family",
             "Complete_language",
+            {
+                "name": "Source",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            },
             "Reference",
             "Reference_type",
             "Reference_URL",
@@ -98,7 +103,11 @@ class Dataset(BaseDataset):
         ):
             glottolang = languoids_by_glottocode[lid]
             # TODO: better way of doing this?
-            this_metadata = [lang_meta for lang_meta in langs_metadata if lang_meta["Glotto.code"] == lid][0]
+            this_metadata = [
+                lang_meta
+                for lang_meta in langs_metadata
+                if lang_meta["Glotto.code"] == lid
+            ][0]
             args.writer.objects["LanguageTable"].append(
                 dict(
                     ID=lid,
@@ -110,8 +119,9 @@ class Dataset(BaseDataset):
                     Longitude=glottolang.longitude,
                     Family=glottolang.family,
                     Complete_language=this_metadata["Complete_language"],
-                    Reference=this_metadata["Reference"],
+                    Source=this_metadata["Reference_key"],
                     Reference_type=this_metadata["Reference_type"],
+                    Reference=this_metadata["Reference"],
                     Reference_URL=this_metadata["URL"],
                 )
             )
@@ -133,8 +143,7 @@ class Dataset(BaseDataset):
                             Parameter_ID="modal",
                             Value=str(modal_id),
                             UnitParameter_ID=f"{row['force']}.{row['flavor']}",
-                            # TODO: fix this to include other values, e.g. ?
-                            UnitValue="can" if can == "1" else "cannot",
+                            UnitValue={"1": "can", "0": "cannot", "?": "unclear"}[can],
                         )
                         force_flavor_pairs.add((row["force"], row["flavor"]))
                         args.writer.objects["unit-values.csv"].append(test_dict)
@@ -159,7 +168,9 @@ class Dataset(BaseDataset):
         # get forces from raw data and make sure that they are all represented in forces.csv
         forces_from_observations = set(pair[0] for pair in force_flavor_pairs)
         forces_from_raw = set(entry["Name"] for entry in force_data)
-        assert forces_from_observations == forces_from_raw, "Mismatch between forces in observations data and in explicit forces.csv"
+        assert (
+            forces_from_observations == forces_from_raw
+        ), "Mismatch between forces in observations data and in explicit forces.csv"
 
         flavor_data = self.raw_dir.read_csv("flavors.csv", dicts=True)
         for entry in flavor_data:
@@ -167,4 +178,6 @@ class Dataset(BaseDataset):
         # get flavors from raw data and make sure that they are all represented in flavors.csv
         flavors_from_observations = set(pair[1] for pair in force_flavor_pairs)
         flavors_from_raw = set(entry["Name"] for entry in flavor_data)
-        assert flavors_from_observations == flavors_from_raw, "Mismatch between flavors in observations data and in explicit forces.csv"
+        assert (
+            flavors_from_observations == flavors_from_raw
+        ), "Mismatch between flavors in observations data and in explicit forces.csv"
