@@ -81,6 +81,26 @@ java1254,Javanese-Paciran,mesthi,strong,deontic,0,NA
 java1254,Javanese-Paciran,mesthi,strong,circumstantial,0,NA
 java1254,Javanese-Paciran,mesthi,strong,teleological,?,NA
 java1254,Javanese-Paciran,mesthi,strong,bouletic,?,NA
+java1254,Javanese-Paciran,mesthi,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,mesthi,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,mesthi,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,mesthi,weak necessity,teleological,0,NA
+java1254,Javanese-Paciran,mesthi,weak necessity,bouletic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak necessity,epistemic,1,NA
+java1254,Javanese-Paciran,mesthi-ne,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak necessity,teleological,?,NA
+java1254,Javanese-Paciran,mesthi-ne,weak necessity,bouletic,?,NA
+java1254,Javanese-Paciran,mesthi-ne,weak,epistemic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak,deontic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak,teleological,0,NA
+java1254,Javanese-Paciran,mesthi-ne,weak,bouletic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,strong,epistemic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,strong,deontic,0,NA
+java1254,Javanese-Paciran,mesthi-ne,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,mesthi-ne,strong,teleological,0,NA
+java1254,Javanese-Paciran,mesthi-ne,strong,bouletic,0,NA
 java1254,Javanese-Paciran,paleng,weak,epistemic,1,NA
 java1254,Javanese-Paciran,paleng,weak,deontic,?,NA
 java1254,Javanese-Paciran,paleng,weak,circumstantial,0,NA
@@ -91,6 +111,11 @@ java1254,Javanese-Paciran,paleng,strong,deontic,?,NA
 java1254,Javanese-Paciran,paleng,strong,circumstantial,0,NA
 java1254,Javanese-Paciran,paleng,strong,teleological,?,NA
 java1254,Javanese-Paciran,paleng,strong,bouletic,?,NA
+java1254,Javanese-Paciran,paleng,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,paleng,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,paleng,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,paleng,weak necessity,teleological,0,NA
+java1254,Javanese-Paciran,paleng,weak necessity,bouletic,0,NA
 java1254,Javanese-Paciran,oleh,weak,epistemic,0,NA
 java1254,Javanese-Paciran,oleh,weak,deontic,1,NA
 java1254,Javanese-Paciran,oleh,weak,circumstantial,0,NA
@@ -101,6 +126,11 @@ java1254,Javanese-Paciran,oleh,strong,deontic,0,NA
 java1254,Javanese-Paciran,oleh,strong,circumstantial,0,NA
 java1254,Javanese-Paciran,oleh,strong,teleological,?,NA
 java1254,Javanese-Paciran,oleh,strong,bouletic,?,NA
+java1254,Javanese-Paciran,oleh,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,oleh,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,oleh,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,oleh,weak necessity,teleological,0,NA
+java1254,Javanese-Paciran,oleh,weak necessity,bouletic,0,NA
 java1254,Javanese-Paciran,iso,weak,epistemic,0,NA
 java1254,Javanese-Paciran,iso,weak,deontic,0,NA
 java1254,Javanese-Paciran,iso,weak,circumstantial,1,NA
@@ -111,6 +141,11 @@ java1254,Javanese-Paciran,iso,strong,deontic,0,NA
 java1254,Javanese-Paciran,iso,strong,circumstantial,0,NA
 java1254,Javanese-Paciran,iso,strong,teleological,?,NA
 java1254,Javanese-Paciran,iso,strong,bouletic,?,NA
+java1254,Javanese-Paciran,iso,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,iso,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,iso,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,iso,weak necessity,teleological,0,NA
+java1254,Javanese-Paciran,iso,weak necessity,bouletic,0,NA
 java1254,Javanese-Paciran,kudu1,weak,epistemic,0,NA
 java1254,Javanese-Paciran,kudu1,weak,deontic,0,NA
 java1254,Javanese-Paciran,kudu1,weak,circumstantial,0,NA
@@ -121,6 +156,26 @@ java1254,Javanese-Paciran,kudu1,strong,deontic,1,NA
 java1254,Javanese-Paciran,kudu1,strong,circumstantial,1,NA
 java1254,Javanese-Paciran,kudu1,strong,teleological,1,NA
 java1254,Javanese-Paciran,kudu1,strong,bouletic,0,NA
+java1254,Javanese-Paciran,kudu1,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,kudu1,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,kudu1,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu1,weak necessity,teleological,0,NA
+java1254,Javanese-Paciran,kudu1,weak necessity,bouletic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak,epistemic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak,deontic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak,teleological,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak,bouletic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,strong,epistemic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,strong,deontic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,strong,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu1-ne,strong,teleological,0,NA
+java1254,Javanese-Paciran,kudu1-ne,strong,bouletic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,kudu1-ne,weak necessity,deontic,1,NA
+java1254,Javanese-Paciran,kudu1-ne,weak necessity,circumstantial,1,NA
+java1254,Javanese-Paciran,kudu1-ne,weak necessity,teleological,1,NA
+java1254,Javanese-Paciran,kudu1-ne,weak necessity,bouletic,0,NA
 java1254,Javanese-Paciran,kudu2,weak,epistemic,0,NA
 java1254,Javanese-Paciran,kudu2,weak,deontic,0,NA
 java1254,Javanese-Paciran,kudu2,weak,circumstantial,0,NA
@@ -131,6 +186,11 @@ java1254,Javanese-Paciran,kudu2,strong,deontic,0,NA
 java1254,Javanese-Paciran,kudu2,strong,circumstantial,0,NA
 java1254,Javanese-Paciran,kudu2,strong,teleological,0,NA
 java1254,Javanese-Paciran,kudu2,strong,bouletic,1,NA
+java1254,Javanese-Paciran,kudu2,weak necessity,epistemic,0,NA
+java1254,Javanese-Paciran,kudu2,weak necessity,deontic,0,NA
+java1254,Javanese-Paciran,kudu2,weak necessity,circumstantial,0,NA
+java1254,Javanese-Paciran,kudu2,weak necessity,teleological,0,NA
+java1254,Javanese-Paciran,kudu2,weak necessity,bouletic,0,NA
 kwaz1243,Kwaza,-tsy-,strong,future,1,"describes as 'potential' (401), also a future marker (607)"
 kwaz1243,Kwaza,-tsy-,weak,epistemic,1,examples in 609 translates to 'may'
 kwaz1243,Kwaza,-tsy-,weak,ability,1,examples in 610 shows that the expression only occurs with negative can indicate inablity when combined with negation
@@ -147,6 +207,87 @@ kwaz1243,Kwaza,-tehere,weak,epistemic,1,"translate to 'may' and 'it seems' (421)
 kwaz1243,Kwaza,-tehere,strong,epistemic,1,the examples in 421 also translate to 'must'
 kwaz1243,Kwaza,-cehere,weak,epistemic,1,"similar to -tehere, translate to 'could' (423), described as 'apparential' (423)"
 kwaz1243,Kwaza,-cehere,strong,epistemic,1,the examples in 424 also translate to 'must'
+logo1258,Logoori,kunyala,weak,epistemic,1,NA
+logo1258,Logoori,kunyala,weak,circumstantial,1,NA
+logo1258,Logoori,kunyala,weak,deontic,1,NA
+logo1258,Logoori,kunyala,weak,teleological,1,NA
+logo1258,Logoori,kunyala,strong,epistemic,0,NA
+logo1258,Logoori,kunyala,strong,circumstantial,0,NA
+logo1258,Logoori,kunyala,strong,deontic,0,NA
+logo1258,Logoori,kunyala,strong,teleological,0,NA
+logo1258,Logoori,kunyala,weak necessity,epistemic,0,NA
+logo1258,Logoori,kunyala,weak necessity,circumstantial,0,NA
+logo1258,Logoori,kunyala,weak necessity,deontic,0,NA
+logo1258,Logoori,kunyala,weak necessity,teleological,0,NA
+logo1258,Logoori,haondi,weak,epistemic,1,adverb
+logo1258,Logoori,haondi,weak,circumstantial,0,adverb
+logo1258,Logoori,haondi,weak,deontic,0,adverb
+logo1258,Logoori,haondi,weak,teleological,0,adverb
+logo1258,Logoori,haondi,strong,epistemic,0,adverb
+logo1258,Logoori,haondi,strong,circumstantial,0,adverb
+logo1258,Logoori,haondi,strong,deontic,0,adverb
+logo1258,Logoori,haondi,strong,teleological,0,adverb
+logo1258,Logoori,haondi,weak necessity,epistemic,0,adverb
+logo1258,Logoori,haondi,weak necessity,circumstantial,0,adverb
+logo1258,Logoori,haondi,weak necessity,deontic,0,adverb
+logo1258,Logoori,haondi,weak necessity,teleological,0,adverb
+logo1258,Logoori,fwana,weak,epistemic,1,adverb
+logo1258,Logoori,fwana,weak,circumstantial,0,adverb
+logo1258,Logoori,fwana,weak,deontic,0,adverb
+logo1258,Logoori,fwana,weak,teleological,0,adverb
+logo1258,Logoori,fwana,strong,epistemic,0,adverb
+logo1258,Logoori,fwana,strong,circumstantial,0,adverb
+logo1258,Logoori,fwana,strong,deontic,0,adverb
+logo1258,Logoori,fwana,strong,teleological,0,adverb
+logo1258,Logoori,fwana,weak necessity,epistemic,0,adverb
+logo1258,Logoori,fwana,weak necessity,circumstantial,0,adverb
+logo1258,Logoori,fwana,weak necessity,deontic,0,adverb
+logo1258,Logoori,fwana,weak necessity,teleological,0,adverb
+logo1258,Logoori,kudoka,strong,circumstantial,1,NA
+logo1258,Logoori,kudoka,strong,bouletic,0,NA
+logo1258,Logoori,kudoka,strong,deontic,1,NA
+logo1258,Logoori,kudoka,strong,teleological,1,NA
+logo1258,Logoori,kudoka,strong,epistemic,1,NA
+logo1258,Logoori,kudoka,weak,circumstantial,0,NA
+logo1258,Logoori,kudoka,weak,bouletic,0,NA
+logo1258,Logoori,kudoka,weak,deontic,0,NA
+logo1258,Logoori,kudoka,weak,teleological,0,NA
+logo1258,Logoori,kudoka,weak,epistemic,0,NA
+logo1258,Logoori,kudoka,weak necessity,circumstantial,0,NA
+logo1258,Logoori,kudoka,weak necessity,bouletic,0,NA
+logo1258,Logoori,kudoka,weak necessity,deontic,0,NA
+logo1258,Logoori,kudoka,weak necessity,teleological,0,NA
+logo1258,Logoori,kudoka,weak necessity,epistemic,0,NA
+logo1258,Logoori,kwenya,strong,bouletic,1,plain form: only strong
+logo1258,Logoori,kwenya,strong,circumstantial,0,plain form: only strong
+logo1258,Logoori,kwenya,strong,epistemic,0,plain form: only strong
+logo1258,Logoori,kwenya,strong,deontic,0,plain form: only strong
+logo1258,Logoori,kwenya,strong,teleological,0,plain form: only strong
+logo1258,Logoori,kwenya,weak,bouletic,0,plain form: only strong
+logo1258,Logoori,kwenya,weak,circumstantial,0,plain form: only strong
+logo1258,Logoori,kwenya,weak,epistemic,0,plain form: only strong
+logo1258,Logoori,kwenya,weak,deontic,0,plain form: only strong
+logo1258,Logoori,kwenya,weak,teleological,0,plain form: only strong
+logo1258,Logoori,kwenya,weak necessity,bouletic,0,plain form: only strong
+logo1258,Logoori,kwenya,weak necessity,circumstantial,0,plain form: only strong
+logo1258,Logoori,kwenya,weak necessity,epistemic,0,plain form: only strong
+logo1258,Logoori,kwenya,weak necessity,deontic,0,plain form: only strong
+logo1258,Logoori,kwenya,weak necessity,teleological,0,plain form: only strong
+logo1258,Logoori,kwenya-Vk,weak necessity,bouletic,1,impersonal form (kwenya + anticausative): only weak necessity
+logo1258,Logoori,kwenya-Vk,weak necessity,circumstantial,1,impersonal form (kwenya + anticausative): only weak necessity
+logo1258,Logoori,kwenya-Vk,weak necessity,deontic,1,impersonal form (kwenya + anticausative): only weak necessity
+logo1258,Logoori,kwenya-Vk,weak necessity,teleological,1,impersonal form (kwenya + anticausative): only weak necessity
+logo1258,Logoori,kwenya-Vk,weak necessity,epistemic,1,impersonal form (kwenya + anticausative): only weak necessity
+logo1258,Logoori,kwenya-Vk,strong,bouletic,0,NA
+logo1258,Logoori,kwenya-Vk,strong,circumstantial,0,NA
+logo1258,Logoori,kwenya-Vk,strong,deontic,0,NA
+logo1258,Logoori,kwenya-Vk,strong,teleological,0,NA
+logo1258,Logoori,kwenya-Vk,strong,epistemic,0,NA
+logo1258,Logoori,kwenya-Vk,weak,bouletic,0,NA
+logo1258,Logoori,kwenya-Vk,weak,circumstantial,0,NA
+logo1258,Logoori,kwenya-Vk,weak,deontic,0,NA
+logo1258,Logoori,kwenya-Vk,weak,teleological,0,NA
+logo1258,Logoori,kwenya-Vk,weak,epistemic,0,NA
 bull1247,Mani,lɛ̀,strong,deontic,1,p91 translates to 'it is necessary'. It is categorized as 'deontic force along with a probably epstemic component'(p86)
 bull1247,Mani,lɛ̀,weak necessity,epistemic,1,"p114 translates to 'should', and this was used to express epistemically (indicate speaker's belief about the state of affairs)"
 bull1247,Mani,lɛ̀,strong,epistemic,?,not sure since p86 also says it could express a epstemic component
