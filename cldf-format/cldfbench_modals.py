@@ -7,12 +7,14 @@ from pycldf import term_uri
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "steinertthrelkeldmodals"
+    id = "modal-typology"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module="StructureDataset", dir=self.cldf_dir)
 
     def cmd_makecldf(self, args):
+        # TODO: is this the "right" way of adding sources?
+        args.writer.cldf.properties["dc:sources"] = "sources.bib"
         args.writer.cldf.add_component("ParameterTable")
         args.writer.cldf.add_component("LanguageTable")
         args.writer.cldf.add_columns(

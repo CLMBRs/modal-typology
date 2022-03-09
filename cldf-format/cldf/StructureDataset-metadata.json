@@ -6,6 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:sources": "sources.bib",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
@@ -24,7 +25,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "steinertthrelkeldmodals",
+    "rdf:ID": "modal-typology",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
