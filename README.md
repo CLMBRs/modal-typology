@@ -23,9 +23,4 @@ Each row is one observation: `can_express` has values stating whether or not an 
 * detailed README and contribution guide
     - make CONTRIBUTE.md
     - split README across (i) whole repo, (ii) basic-format, (iii) cldf-format
-* move all existing data into this format
-* improve force / flavor tables
-    - add basic tables w/ descriptions in basic-format, and to contribution guide
-    - update `cldfbench_modals.py` to reflect this
 * GitHub actions for running `combine_data.R` and `build.sh` on commit?
-* sources as bibtex?
