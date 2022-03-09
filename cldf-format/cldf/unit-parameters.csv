@@ -7,7 +7,7 @@ strong.epistemic,strong.epistemic,,strong,epistemic
 strong.future,strong.future,,strong,future
 strong.hortative,strong.hortative,,strong,hortative
 strong.intentional,strong.intentional,,strong,intentional
-strong.irealis,strong.irealis,,strong,irealis
+strong.irrealis,strong.irrealis,,strong,irrealis
 strong.purposive,strong.purposive,,strong,purposive
 strong.reportative,strong.reportative,,strong,reportative
 strong.teleological,strong.teleological,,strong,teleological
@@ -24,7 +24,10 @@ weak.permissive,weak.permissive,,weak,permissive
 weak.reportative,weak.reportative,,weak,reportative
 weak.teleological,weak.teleological,,weak,teleological
 weak.volitional,weak.volitional,,weak,volitional
+weak necessity.bouletic,weak necessity.bouletic,,weak necessity,bouletic
+weak necessity.circumstantial,weak necessity.circumstantial,,weak necessity,circumstantial
 weak necessity.deontic,weak necessity.deontic,,weak necessity,deontic
 weak necessity.epistemic,weak necessity.epistemic,,weak necessity,epistemic
 weak necessity.hortative,weak necessity.hortative,,weak necessity,hortative
 weak necessity.intentional,weak necessity.intentional,,weak necessity,intentional
+weak necessity.teleological,weak necessity.teleological,,weak necessity,teleological

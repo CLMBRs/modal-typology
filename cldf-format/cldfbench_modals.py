@@ -151,10 +151,20 @@ class Dataset(BaseDataset):
                 )
             )
 
-        forces = sorted(set(pair[0] for pair in force_flavor_pairs))
-        for idx, force in enumerate(forces):
-            args.writer.objects["forces.csv"].append(dict(ID=idx, Name=force))
+        # TODO: refactor out the common core of these two file reading/writing steps
+        # read forces.csv and flavors.csv
+        force_data = self.raw_dir.read_csv("forces.csv", dicts=True)
+        for entry in force_data:
+            args.writer.objects["forces.csv"].append(entry)
+        # get forces from raw data and make sure that they are all represented in forces.csv
+        forces_from_observations = set(pair[0] for pair in force_flavor_pairs)
+        forces_from_raw = set(entry["Name"] for entry in force_data)
+        assert forces_from_observations == forces_from_raw, "Mismatch between forces in observations data and in explicit forces.csv"
 
-        flavors = sorted(set(pair[1] for pair in force_flavor_pairs))
-        for idx, flavor in enumerate(flavors):
-            args.writer.objects["flavors.csv"].append(dict(ID=idx, Name=flavor))
+        flavor_data = self.raw_dir.read_csv("flavors.csv", dicts=True)
+        for entry in flavor_data:
+            args.writer.objects["flavors.csv"].append(entry)
+        # get flavors from raw data and make sure that they are all represented in flavors.csv
+        flavors_from_observations = set(pair[1] for pair in force_flavor_pairs)
+        flavors_from_raw = set(entry["Name"] for entry in flavor_data)
+        assert flavors_from_observations == flavors_from_raw, "Mismatch between flavors in observations data and in explicit forces.csv"
