@@ -6,7 +6,7 @@ all_modals <- data.frame()
 all_observations <- data.frame()
 all_meta <- data.frame()
 
-for (language in list.dirs(recursive = FALSE, full.names = FALSE)) {
+for (language in list.dirs(path=here("basic-format"), recursive = FALSE, full.names = FALSE)) {
     # ignore hidden directories
     if (!(str_starts(language, "\\."))) {
         # 1. Get metadata
