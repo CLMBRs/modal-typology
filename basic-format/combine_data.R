@@ -11,7 +11,7 @@ for (language in list.dirs(recursive = FALSE, full.names = FALSE)) {
     if (!(str_starts(language, "\\."))) {
         # 1. Get metadata
         metadata <- data.frame(
-                yaml.load_file(here("basic-format", language, "metadata.yml"))
+                yaml.load_file(here(language, "metadata.yml"))
             ) %>%
             add_column(language = language) %>%
             relocate(language)
@@ -19,7 +19,7 @@ for (language in list.dirs(recursive = FALSE, full.names = FALSE)) {
 
         # 2. Get modal inventory
         # read raw CSV data
-        observations <- read_csv(here("basic-format", language, "modals.csv")) %>%
+        observations <- read_csv(here(language, "modals.csv")) %>%
             # add a column for which language this is
             add_column(language = language) %>%
             # and Glotto-code of language
@@ -46,6 +46,6 @@ for (language in list.dirs(recursive = FALSE, full.names = FALSE)) {
     }
 }
 
-write_csv(all_observations, here("basic-format", "all_observations.csv"))
-write_csv(all_modals, here("basic-format", "all_modals.csv"))
-write_csv(all_meta, here("basic-format", "all_metadata.csv"))
+write_csv(all_observations, here("all_observations.csv"))
+write_csv(all_modals, here("all_modals.csv"))
+write_csv(all_meta, here("all_metadata.csv"))
