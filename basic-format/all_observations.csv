@@ -207,6 +207,43 @@ kwaz1243,Kwaza,-tehere,weak,epistemic,1,"translate to 'may' and 'it seems' (421)
 kwaz1243,Kwaza,-tehere,strong,epistemic,1,the examples in 421 also translate to 'must'
 kwaz1243,Kwaza,-cehere,weak,epistemic,1,"similar to -tehere, translate to 'could' (423), described as 'apparential' (423)"
 kwaz1243,Kwaza,-cehere,strong,epistemic,1,the examples in 424 also translate to 'must'
+lill1248,Lillooet-Salish,k'a,strong,epistemic,1,NA
+lill1248,Lillooet-Salish,k'a,weak,epistemic,1,NA
+lill1248,Lillooet-Salish,k'a,strong,deontic,0,"321 says that k'a can only take epistemic conversation background, 5b has counter example"
+lill1248,Lillooet-Salish,k'a,weak,deontic,0,NA
+lill1248,Lillooet-Salish,k'a,strong,circumstantial,0,5b is a counter example
+lill1248,Lillooet-Salish,k'a,weak,circumstantial,0,NA
+lill1248,Lillooet-Salish,k'a,strong,irrealis,0,"321 says k'a can only have epistemic flaovr, so other flavors are impossible"
+lill1248,Lillooet-Salish,k'a,weak,irrealis,0,NA
+lill1248,Lillooet-Salish,k'a,strong,future,0,NA
+lill1248,Lillooet-Salish,k'a,weak,future,0,NA
+lill1248,Lillooet-Salish,ka-...-a,strong,circumstantial,1,322 points to Davis et al (to appear) and says that the circumfix is circumstantial
+lill1248,Lillooet-Salish,ka-...-a,weak,circumstantial,1,NA
+lill1248,Lillooet-Salish,ka,strong,deontic,1,NA
+lill1248,Lillooet-Salish,ka,weak,deontic,1,NA
+lill1248,Lillooet-Salish,ka,strong,irrealis,1,NA
+lill1248,Lillooet-Salish,ka,weak,irrealis,1,NA
+lill1248,Lillooet-Salish,ka,strong,epistemic,0,332 says deontic and irrealis are the only possible flavors and provides a counterexample of epistemic
+lill1248,Lillooet-Salish,ka,weak,epistemic,0,NA
+lill1248,Lillooet-Salish,ka,strong,circumstantial,0,"since 322 says deontic and irrealis are the only options, other flavors are impossible"
+lill1248,Lillooet-Salish,ka,weak,circumstantial,0,NA
+lill1248,Lillooet-Salish,ka,strong,future,0,NA
+lill1248,Lillooet-Salish,ka,weak,future,0,NA
+lill1248,Lillooet-Salish,kelh,strong,future,1,NA
+lill1248,Lillooet-Salish,kelh,weak,future,1,NA
+lill1248,Lillooet-Salish,kelh,strong,epistemic,0,325 says that kelh does not allow dispositional and epistemic reading and provides a counterexample for epistemic
+lill1248,Lillooet-Salish,kelh,weak,epistemic,0,NA
+lill1248,Lillooet-Salish,kelh,strong,deontic,0,325 says kelh does not allow any non-future reading
+lill1248,Lillooet-Salish,kelh,weak,deontic,0,NA
+lill1248,Lillooet-Salish,kelh,strong,circumstantial,0,NA
+lill1248,Lillooet-Salish,kelh,weak,circumstantial,0,NA
+lill1248,Lillooet-Salish,kelh,strong,irrealis,0,NA
+lill1248,Lillooet-Salish,kelh,weak,irrealis,0,NA
+lill1248,Lillooet-Salish,-an',strong,epistemic,1,"described as evidential (346)  that denotes epistemic-perceived evidence, and 'is usually rejected in cases where it is 
+made explicit that only an existential claim' (348)"
+lill1248,Lillooet-Salish,-an',weak,epistemic,0,NA
+lill1248,Lillooet-Salish,-ku7,strong,epistemic,1,described as evidential (346) that denotes epistemic-reportative
+lill1248,Lillooet-Salish,-ku7,weak,epistemic,?,"when asked about existential interpretation, speakers vary on judgments(349), some speakers accept such interpretation"
 logo1258,Logoori,kunyala,weak,epistemic,1,NA
 logo1258,Logoori,kunyala,weak,circumstantial,1,NA
 logo1258,Logoori,kunyala,weak,deontic,1,NA
@@ -347,43 +384,6 @@ nort2722,Qiang,se,weak,deontic,1,categorized as potential but 196 says it expres
 nort2722,Qiang,je,weak,ability,1,196 says it express a sense of possiblity
 nort2722,Qiang,me-tɕhi,weak,deontic,1,"197 says it could express permission as well as ability,glossed as NEG-want even though the reading is not negated"
 nort2722,Qiang,me-tɕhi,weak,ability,1,"197 says it could express permission as well as ability,glossed as NEG-want even though the reading is not negated"
-lill1248,St’át’imcets,k'a,strong,epistemic,1,NA
-lill1248,St’át’imcets,k'a,weak,epistemic,1,NA
-lill1248,St’át’imcets,k'a,strong,deontic,0,"321 says that k'a can only take epistemic conversation background, 5b has counter example"
-lill1248,St’át’imcets,k'a,weak,deontic,0,NA
-lill1248,St’át’imcets,k'a,strong,circumstantial,0,5b is a counter example
-lill1248,St’át’imcets,k'a,weak,circumstantial,0,NA
-lill1248,St’át’imcets,k'a,strong,irrealis,0,"321 says k'a can only have epistemic flaovr, so other flavors are impossible"
-lill1248,St’át’imcets,k'a,weak,irrealis,0,NA
-lill1248,St’át’imcets,k'a,strong,future,0,NA
-lill1248,St’át’imcets,k'a,weak,future,0,NA
-lill1248,St’át’imcets,ka-...-a,strong,circumstantial,1,322 points to Davis et al (to appear) and says that the circumfix is circumstantial
-lill1248,St’át’imcets,ka-...-a,weak,circumstantial,1,NA
-lill1248,St’át’imcets,ka,strong,deontic,1,NA
-lill1248,St’át’imcets,ka,weak,deontic,1,NA
-lill1248,St’át’imcets,ka,strong,irrealis,1,NA
-lill1248,St’át’imcets,ka,weak,irrealis,1,NA
-lill1248,St’át’imcets,ka,strong,epistemic,0,332 says deontic and irrealis are the only possible flavors and provides a counterexample of epistemic
-lill1248,St’át’imcets,ka,weak,epistemic,0,NA
-lill1248,St’át’imcets,ka,strong,circumstantial,0,"since 322 says deontic and irrealis are the only options, other flavors are impossible"
-lill1248,St’át’imcets,ka,weak,circumstantial,0,NA
-lill1248,St’át’imcets,ka,strong,future,0,NA
-lill1248,St’át’imcets,ka,weak,future,0,NA
-lill1248,St’át’imcets,kelh,strong,future,1,NA
-lill1248,St’át’imcets,kelh,weak,future,1,NA
-lill1248,St’át’imcets,kelh,strong,epistemic,0,325 says that kelh does not allow dispositional and epistemic reading and provides a counterexample for epistemic
-lill1248,St’át’imcets,kelh,weak,epistemic,0,NA
-lill1248,St’át’imcets,kelh,strong,deontic,0,325 says kelh does not allow any non-future reading
-lill1248,St’át’imcets,kelh,weak,deontic,0,NA
-lill1248,St’át’imcets,kelh,strong,circumstantial,0,NA
-lill1248,St’át’imcets,kelh,weak,circumstantial,0,NA
-lill1248,St’át’imcets,kelh,strong,irrealis,0,NA
-lill1248,St’át’imcets,kelh,weak,irrealis,0,NA
-lill1248,St’át’imcets,-an',strong,epistemic,1,"described as evidential (346)  that denotes epistemic-perceived evidence, and 'is usually rejected in cases where it is 
-made explicit that only an existential claim' (348)"
-lill1248,St’át’imcets,-an',weak,epistemic,0,NA
-lill1248,St’át’imcets,-ku7,strong,epistemic,1,described as evidential (346) that denotes epistemic-reportative
-lill1248,St’át’imcets,-ku7,weak,epistemic,?,"when asked about existential interpretation, speakers vary on judgments(349), some speakers accept such interpretation"
 tlin1245,Tlingit,gwál,weak,epistemic,1,asdf
 tlin1245,Tlingit,gwál,strong,epistemic,0,asgaweg
 tlin1245,Tlingit,gwál,weak,circumstantial,0,NA
