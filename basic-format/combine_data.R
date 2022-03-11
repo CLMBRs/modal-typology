@@ -13,8 +13,8 @@ for (language in list.dirs(path=here("basic-format"), recursive = FALSE, full.na
         metadata <- data.frame(
                 yaml.load_file(here("basic-format", language, "metadata.yml"))
             ) %>%
-            add_column(language = language) %>%
-            relocate(language)
+            add_column(Language = language) %>%
+            relocate(Language)
         all_meta <- bind_rows(all_meta, metadata)
 
         # 2. Get modal inventory
