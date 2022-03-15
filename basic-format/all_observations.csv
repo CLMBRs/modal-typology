@@ -191,15 +191,12 @@ java1254,Javanese-Paciran,kudu2,weak necessity,deontic,0,NA
 java1254,Javanese-Paciran,kudu2,weak necessity,circumstantial,0,NA
 java1254,Javanese-Paciran,kudu2,weak necessity,teleological,0,NA
 java1254,Javanese-Paciran,kudu2,weak necessity,bouletic,0,NA
-kwaz1243,Kwaza,-tsy-,strong,future,1,"describes as 'potential' (401), also a future marker (607)"
-kwaz1243,Kwaza,-tsy-,weak,epistemic,1,examples in 609 translates to 'may'
+kwaz1243,Kwaza,-tsy-,weak,future,1,"describes as 'potential' (401) and refer to a possible,less certain future (607)"
 kwaz1243,Kwaza,-tsy-,weak,ability,1,examples in 610 shows that the expression only occurs with negative can indicate inablity when combined with negation
-kwaz1243,Kwaza,damỹ,strong,volitional,1,"describes as 'volitional and intentional' (401), and translates to 'be going to'/'want to' (315)"
-kwaz1243,Kwaza,damỹ,strong,intentional,1,NA
+kwaz1243,Kwaza,damỹ,strong,intentional,1,"describes as 'volitional and intentional' (401), and translates to 'be going to'/'want to' (315)"
 kwaz1243,Kwaza,damỹ,strong,future,1,put as future since examples in 315 translates the word to 'be going to'
 kwaz1243,Kwaza,-tsi,weak,irrealis,1,"described as 'preventitve' (402) and translates to prevent someone do something, put it as irrealis"
-kwaz1243,Kwaza,-(da)-te-,strong,purposive,1,"described as ''purposive' modality (412), translates as something is used for someone to do something"
-kwaz1243,Kwaza,-(da)-te-,strong,circumstantial,1,so maybe 'circumstainial' is a better choice
+kwaz1243,Kwaza,-(da)-te-,weak,purposive,1,"described as ''purposive' modality (412), translates as something is used for someone to do something, such as the ketchup is used for people to drink (p413)"
 kwaz1243,Kwaza,-(da)-te-,weak,intentional,1,"can also translate to 'be prepared to' (412), put it under weak intentional since it might be similar to an expression in Nuosu"
 kwaz1243,Kwaza,-heta-,strong,bouletic,1,"descibed as 'desdierative' (413) but translates to 'want to', put it as bouletic"
 kwaz1243,Kwaza,-here-,weak,intentional,1,described as 'intentional' and indicates unsuccessful attempt(418)
@@ -325,10 +322,10 @@ logo1258,Logoori,kwenya-Vk,weak,circumstantial,0,NA
 logo1258,Logoori,kwenya-Vk,weak,deontic,0,NA
 logo1258,Logoori,kwenya-Vk,weak,teleological,0,NA
 logo1258,Logoori,kwenya-Vk,weak,epistemic,0,NA
-bull1247,Mani,lɛ̀,strong,deontic,1,p91 translates to 'it is necessary'. It is categorized as 'deontic force along with a probably epstemic component'(p86)
-bull1247,Mani,lɛ̀,weak necessity,epistemic,1,"p114 translates to 'should', and this was used to express epistemically (indicate speaker's belief about the state of affairs)"
-bull1247,Mani,lɛ̀,strong,epistemic,?,not sure since p86 also says it could express a epstemic component
-bull1247,Mani,lɛ̀,weak necessity,deontic,?,not sure since p114 translate the word to 'should' in a deontic manner
+bull1247,Mani,lɛ̀,strong,deontic,1,p91 translates to 'it is necessary'. It is categorized as 'deontic force along with a probably derivative epistemic component'(p86)
+bull1247,Mani,lɛ̀,weak necessity,deontic,1,p114 translate the word to 'should' and categorize under deontic expression
+bull1247,Mani,lɛ̀,weak necessity,epistemic,?,p113 said the word was used to express epistemically (indicate speaker's belief about the state of affairs) even though it translates to 'should'
+bull1247,Mani,lɛ̀,strong,epistemic,?,p86 says the expression is 'along with probably derivative epistemic component' but there is no epistemic example from the book
 bull1247,Mani,lɛ̀lɛ̀,strong,deontic,1,p91 describes reduplicated form lɛ̀lɛ̀ have a stronger obligation and intensity
 bull1247,Mani,ce,weak,irrealis,1,"a copular verb, shares some imperfective meaning and is referred as irrealis copula(p86)"
 bull1247,Mani,bi,strong,epistemic,1,"p114 translates to 'have to',but says it is in a sense that speaker is certain of the predication, and qualifies as epistemic"

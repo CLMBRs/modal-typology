@@ -1,4 +1,4 @@
-lang_ID,language,expression,strong.ability,weak.bouletic,weak.intentional,weak.deontic,strong.deontic,weak.epistemic,weak.reportative,weak.circumstantial,strong.epistemic,strong.reportative,strong.circumstantial,weak.irrealis,weak.future,weak.ability,strong.intentional,strong.irrealis,strong.bouletic,strong.future,strong.hortative,weak.teleological,strong.teleological,weak necessity.epistemic,weak necessity.deontic,weak necessity.circumstantial,weak necessity.teleological,weak necessity.bouletic,strong.volitional,strong.purposive,weak necessity.hortative,weak.permissive,weak necessity.intentional,weak.volitional
+lang_ID,language,expression,strong.ability,weak.bouletic,weak.intentional,weak.deontic,strong.deontic,weak.epistemic,weak.reportative,weak.circumstantial,strong.epistemic,strong.reportative,strong.circumstantial,weak.irrealis,weak.future,weak.ability,strong.intentional,strong.irrealis,strong.bouletic,strong.future,strong.hortative,weak.teleological,strong.teleological,weak necessity.epistemic,weak necessity.deontic,weak necessity.circumstantial,weak necessity.teleological,weak necessity.bouletic,weak.purposive,weak necessity.hortative,weak.permissive,weak necessity.intentional,weak.volitional,strong.volitional
 doma1258,Donmari,saka-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 doma1258,Donmari,bidd-,NA,1,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 doma1258,Donmari,xallī,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -40,10 +40,10 @@ java1254,Javanese-Paciran,iso,NA,?,NA,0,0,0,NA,1,0,NA,0,NA,NA,NA,NA,NA,?,NA,NA,?
 java1254,Javanese-Paciran,kudu1,NA,0,NA,0,1,0,NA,0,0,NA,1,NA,NA,NA,NA,NA,0,NA,NA,0,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA
 java1254,Javanese-Paciran,kudu1-ne,NA,0,NA,0,0,0,NA,0,0,NA,0,NA,NA,NA,NA,NA,0,NA,NA,0,0,0,1,1,1,0,NA,NA,NA,NA,NA,NA
 java1254,Javanese-Paciran,kudu2,NA,0,NA,0,0,0,NA,0,0,NA,0,NA,NA,NA,NA,NA,1,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
-kwaz1243,Kwaza,-tsy-,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-kwaz1243,Kwaza,damỹ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+kwaz1243,Kwaza,-tsy-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kwaz1243,Kwaza,damỹ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kwaz1243,Kwaza,-tsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-kwaz1243,Kwaza,-(da)-te-,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
+kwaz1243,Kwaza,-(da)-te-,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
 kwaz1243,Kwaza,-heta-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kwaz1243,Kwaza,-here-,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 kwaz1243,Kwaza,-tehere,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -60,7 +60,7 @@ logo1258,Logoori,fwana,NA,NA,NA,0,0,1,NA,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,
 logo1258,Logoori,kudoka,NA,0,NA,0,1,0,NA,0,1,NA,1,NA,NA,NA,NA,NA,0,NA,NA,0,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA
 logo1258,Logoori,kwenya,NA,0,NA,0,0,0,NA,0,0,NA,0,NA,NA,NA,NA,NA,1,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA
 logo1258,Logoori,kwenya-Vk,NA,0,NA,0,0,0,NA,0,0,NA,0,NA,NA,NA,NA,NA,0,NA,NA,0,0,1,1,1,1,1,NA,NA,NA,NA,NA,NA
-bull1247,Mani,lɛ̀,NA,NA,NA,NA,1,NA,NA,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,?,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bull1247,Mani,lɛ̀,NA,NA,NA,NA,1,NA,NA,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,?,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 bull1247,Mani,lɛ̀lɛ̀,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 bull1247,Mani,ce,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 bull1247,Mani,bi,NA,NA,NA,NA,?,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -68,21 +68,21 @@ mian1256,Mian,-aamab/-omab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,
 mian1256,Mian,-mab/-omab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 mian1256,Mian,-aam,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 mian1256,Mian,-Vm,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-mian1256,Mian,-an=o/-al=e/-ek=o/-ok=o/-om=o/-in=e,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+mian1256,Mian,-an=o/-al=e/-ek=o/-ok=o/-om=o/-in=e,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA
 sich1238,Nuosu,ddie ddur,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 sich1238,Nuosu,tat xi,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 sich1238,Nuosu,ssox/ ddip ssox,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 sich1238,Nuosu,get,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-sich1238,Nuosu,hxit,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
-sich1238,Nuosu,dop,NA,NA,NA,?,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+sich1238,Nuosu,hxit,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+sich1238,Nuosu,dop,NA,NA,NA,?,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
 sich1238,Nuosu,yix syp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-sich1238,Nuosu,hxi nyi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
-sich1238,Nuosu,mo mgu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+sich1238,Nuosu,hxi nyi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+sich1238,Nuosu,mo mgu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
 sich1238,Nuosu,mo ddix,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 sich1238,Nuosu,jox dop(?),NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 sich1238,Nuosu,qi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-sich1238,Nuosu,hna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-sich1238,Nuosu,but,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+sich1238,Nuosu,hna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+sich1238,Nuosu,but,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 nort2722,Qiang,ɕtɕaq-lu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 nort2722,Qiang,lu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 nort2722,Qiang,zulu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
