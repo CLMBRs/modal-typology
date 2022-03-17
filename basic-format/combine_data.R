@@ -48,3 +48,4 @@ for (language in list.dirs(path=here("basic-format"), recursive = FALSE, full.na
 
 write_csv(all_observations, here("basic-format", "all_observations.csv"))
 write_csv(all_modals, here("basic-format", "all_modals.csv"))
+write_csv(all_meta, here("basic-format", "all_metadata.csv"))
