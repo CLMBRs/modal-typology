@@ -2,7 +2,7 @@
 
 # Contributing
 
-Contribution of modals in other languages can be made to `basic-format/` by following the process described below. The process provide a breif overview of the files that should be included in the language folder. For detailed description of the database schema please go over the paper
+Contribution of modals in other languages can be made to `basic-format/` by following the process described below. The process provides a breif overview of the files that should be included in the language folder. For detailed description of the database schema please go over the paper
 
 ## Process
 
