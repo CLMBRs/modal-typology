@@ -22,12 +22,12 @@ Contribution of modals in other languages can be made to `basic-format/` by foll
 
 - `modals.csv` : a comma-separated-value (CSV) file, containing the core data in a table where each row is in the format of
 	- expression
-	- force: a detailed description of flavors can be found in basic-format/force.csv
+	- force: a detailed description of force can be found in basic-format/force.csv
 	- flavor: a detailed description of flavors can be found in basic-format/flavors.csv
 	- can_express: 1 means the expression can express the force and flavor value, 0 means cannot, ? means judgement varies. 
 	- notes: anything notable for this expression
 
-- `readme.md` : a optional file to include extra notes
+- `readme.md` : an optional file to include extra notes
 
 
 3. Edit basic-format/sources.bib with bibtex information of the source of your data. The key should be identical to the reference_key in `metadata.yml`
