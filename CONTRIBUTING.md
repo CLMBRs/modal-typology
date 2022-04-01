@@ -11,7 +11,7 @@ Contribution of modals in other languages can be made to `basic-format/` by foll
 2. Add the following files in the created directory
 
 - `metadata.yml` : a YAML file contains information about the language and the source(s) from which the modals data was compiled. In particular:
-	- Glotto code: this is an ID for the language from Glottlog7 (Hammarström et al. 2021)
+	- Glotto code: this is an ID for the language from Glottlog (https://glottolog.org/glottolog/language)
 	- Reference: a citation for the source
 	- Reference_key: a BibTeX key to sources.bib
 	- URL: a URL to find the reference
