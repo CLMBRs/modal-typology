@@ -25,6 +25,9 @@ Contribution of modals in other languages can be made to `basic-format/` by foll
 	- force: a detailed description of force can be found in basic-format/force.csv
 	- flavor: a detailed description of flavors can be found in basic-format/flavors.csv
 	- can_express: 1 means the expression can express the force and flavor value, 0 means cannot, ? means judgement varies. 
+	- polarity: the context under which the expressions are elicited
+	- syntactically_negated: whether the full form contains negation
+	- full_form: the exact form produced from the data
 	- notes: anything notable for this expression
 
 - `readme.md` : an optional file to include extra notes
