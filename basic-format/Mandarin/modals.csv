@@ -1,4 +1,4 @@
-"""core"" form",force,flavor,can_express,polarity,syntactically_negated,full_form,notes
+"expression",force,flavor,can_express,polarity,syntactically_negated,full_form,notes
 yiding,strong,epistemic,1,positive,no,yiding,chinese character: 一定
 yiding,strong,deontic,?,positive,no,yiding,
 yiding,strong,teleological,?,positive,no,yiding,
