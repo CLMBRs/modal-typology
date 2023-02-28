@@ -32,6 +32,7 @@ for (language in list.dirs(path=here("basic-format"), recursive = FALSE, full.na
         # concatenate all observations together
         all_observations <- bind_rows(all_observations, observations)
 
+        if(FALSE) {
         # pivot data to wide format
         modals <- observations %>%
             # expression level data, with force, flavor pairs as columns
@@ -43,9 +44,10 @@ for (language in list.dirs(path=here("basic-format"), recursive = FALSE, full.na
             )
         # concatenate with existing data
         all_modals <- bind_rows(all_modals, modals)
+        }
     }
 }
 
 write_csv(all_observations, here("basic-format", "all_observations.csv"))
-write_csv(all_modals, here("basic-format", "all_modals.csv"))
+# write_csv(all_modals, here("basic-format", "all_modals.csv"))
 write_csv(all_meta, here("basic-format", "all_metadata.csv"))
