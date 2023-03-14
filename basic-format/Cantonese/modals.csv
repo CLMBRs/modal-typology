@@ -1,1 +1,205 @@
-
+expression ,force,flavor,can_express,polarity,syntactically_negated,neg_position,full_form,notes
+Jatding ,strong,epistemic,1,positive,no,none,jatding,
+Jatding ,weak necessity,epistemic,?,positive,no,none,jatding,
+Jatding ,weak,epistemic,?,positive,no,none,jatding ,
+Jatding ,strong,deontic,1,positive,no,none,(jatding) jiu,exists as an optional element before the main Deontic modal jiu
+Jatding ,weak necessity,deontic,?,positive,no,none,jatding ,
+Jatding ,weak,deontic,?,positive,no,none,jatding ,
+Jatding ,strong,teleological,1,positive,no,none,(jatding) jiu,exists as an optional element before the main modal jiu. Used for emphasis
+Jatding ,weak necessity,teleological,?,positive,no,none,jatding ,
+Jatding ,weak,teleological,?,positive,no,none,jatding ,
+Jatding ,strong,circumstantial,?,positive,no,none,jatding ,
+Jatding ,weak,circumstantial,?,positive,no,none,jatding,
+Jatding ,strong,bouletic,1,positive,no,none,jatding wui / jatding jiu,
+Jinggoi,strong,epistemic,?,positive,no,none,jinggoi,
+Jinggoi,weak necessity,epistemic,1,positive,no,none,jinggoi,
+Jinggoi,weak,epistemic,1,positive,no,none,jinggoi ,
+Jinggoi,strong,deontic,?,positive,no,none,jinggoi,
+Jinggoi,weak necessity,deontic,1,positive,no,none,jinggoi (jiu),
+Jinggoi,weak,deontic,?,positive,no,none,jinggoi,
+Jinggoi,strong,teleological,?,positive,no,none,jinggoi,
+Jinggoi,weak necessity,teleological,1,positive,no,none,jinngoi,
+Jinggoi,weak,teleological,?,positive,no,none,jinggoi,
+Jinggoi,strong,circumstantial,?,positive,no,none,jinggoi,
+Jinggoi,weak,circumstantial,1,positive,no,none,(jinggoi) dou/hoji,"exists as an optional element before main circumstantial possibiliity modal dou, or general possibiity modal hoji"
+Jinggoi,strong,bouletic,?,positive,no,none,jinggoi,
+Jiu,strong,epistemic,?,positive,no,none,jiu,
+Jiu,weak necessity,epistemic,?,positive,no,none,jiu,
+Jiu,weak,epistemic,?,positive,no,none,jiu,
+Jiu,strong,deontic,1,positive,no,none,(jatding) jiu,
+Jiu,weak necessity,deontic,1,positive,no,none,(jinggoi) jiu,
+Jiu,weak,deontic,?,positive,no,none,jiu,
+Jiu,strong,teleological,1,positive,no,none,(jatding) jiu,
+Jiu,weak necessity,teleological,?,positive,no,none,jiu,
+Jiu,weak,teleological,?,positive,no,none,jiu,
+Jiu,strong,circumstantial,1,positive,no,none,jiu,participant internal use only
+Jiu,weak,circumstantial,?,positive,no,none,jiu,
+Jiu,strong,bouletic,1,positive,no,none,(jatding) jiu,
+Honang ,strong,epistemic,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak necessity,epistemic,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak,epistemic,1,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,strong,deontic,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak necessity,deontic,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak,deontic,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,strong,teleological,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak necessity,teleological,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak,teleological,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,strong,circumstantial,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,weak,circumstantial,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Honang ,strong,bouletic,?,positive,no,none,(jau) honang,"Jau (have) MOD, jau sometimes optional"
+Hoji,strong,epistemic,?,positive,no,none,hoji,
+Hoji,weak necessity,epistemic,?,positive,no,none,hoji,
+Hoji,weak,epistemic,?,positive,no,none,hoji,
+Hoji,strong,deontic,?,positive,no,none,hoji,
+Hoji,weak necessity,deontic,?,positive,no,none,hoji,
+Hoji,weak,deontic,1,positive,no,none,hoji,
+Hoji,strong,teleological,?,positive,no,none,hoji,
+Hoji,weak necessity,teleological,?,positive,no,none,hoji,
+Hoji,weak,teleological,1,positive,no,none,hoji,
+Hoji,strong,circumstantial,?,positive,no,none,hoji,
+Hoji,weak,circumstantial,1,positive,no,none,(jinggoi) hoji,
+Hoji,strong,bouletic,?,positive,no,none,hoji,
+Dak,strong,epistemic,?,positive,no,none,dak,
+Dak,weak necessity,epistemic,?,positive,no,none,dak,
+Dak,weak,epistemic,?,positive,no,none,dak,
+Dak,strong,deontic,?,positive,no,none,dak,
+Dak,weak necessity,deontic,?,positive,no,none,dak,
+Dak,weak,deontic,?,positive,no,none,dak,
+Dak,strong,teleological,?,positive,no,none,dak,
+Dak,weak necessity,teleological,?,positive,no,none,dak,
+Dak,weak,teleological,?,positive,no,none,dak,
+Dak,strong,circumstantial,?,positive,no,none,dak,
+Dak,weak,circumstantial,1,positive,no,none,dak,
+Dak,strong,bouletic,?,positive,no,none,dak,
+... dou,strong,epistemic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak necessity,epistemic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak,epistemic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,strong,deontic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak necessity,deontic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak,deontic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,strong,teleological,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak necessity,teleological,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak,teleological,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,strong,circumstantial,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... dou,weak,circumstantial,1,positive,no,none,(jinggoi)... dou,"sentence final, or clause final unit"
+... dou,strong,bouletic,?,positive,no,none,... dou,"sentence final, or clause final unit"
+... la,strong,epistemic,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak necessity,epistemic,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak,epistemic,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,strong,deontic,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak necessity,deontic,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak,deontic,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,strong,teleological,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak necessity,teleological,1,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak,teleological,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,strong,circumstantial,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,weak,circumstantial,?,positive,no,none,... la,sentence final particle used for recommendation
+... la,strong,bouletic,?,positive,no,none,... la,sentence final particle used for recommendation
+bei,strong,epistemic,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak necessity,epistemic,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak,epistemic,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,strong,deontic,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak necessity,deontic,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak,deontic,1,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,strong,teleological,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak necessity,teleological,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak,teleological,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,strong,circumstantial,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,weak,circumstantial,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+bei,strong,bouletic,?,positive,no,none,subj BEI obj [ditrans],"Used for ""give"" permission"
+soeijiu,strong,epistemic,?,positive,no,none,soeijiu,
+soeijiu,weak necessity,epistemic,?,positive,no,none,soeijiu,
+soeijiu,weak,epistemic,?,positive,no,none,soeijiu,
+soeijiu,strong,deontic,?,positive,no,none,soeijiu,
+soeijiu,weak necessity,deontic,?,positive,no,none,soeijiu,
+soeijiu,weak,deontic,?,positive,no,none,soeijiu,
+soeijiu,strong,teleological,?,positive,no,none,soeijiu,
+soeijiu,weak necessity,teleological,?,positive,no,none,soeijiu,
+soeijiu,weak,teleological,?,positive,no,none,soeijiu,
+soeijiu,strong,circumstantial,1,positive,no,none,soeijiu,
+soeijiu,weak,circumstantial,?,positive,no,none,soeijiu,
+soeijiu,strong,bouletic,?,positive,no,none,soeijiu,
+Jatding ,strong,epistemic,?,negative,yes,below,m jatding,
+Jatding ,weak necessity,epistemic,?,negative,yes,below,m jatding,
+Jatding ,weak,epistemic,?,negative,yes,below,m jatding,
+Jatding ,strong,deontic,?,negative,yes,below,m jatding,
+Jatding ,weak necessity,deontic,?,negative,yes,below,m jatding,
+Jatding ,weak,deontic,?,negative,yes,below,m jatding,
+Jatding ,strong,teleological,1,negative,yes,below,m jatding,
+Jatding ,weak necessity,teleological,?,negative,yes,below,m jatding,
+Jatding ,weak,teleological,?,negative,yes,below,m jatding,
+Jatding ,strong,circumstantial,1,negative,yes,below,m jatding,
+Jatding ,weak,circumstantial,?,negative,yes,below,m jatding,
+Jatding ,strong,bouletic,?,negative,yes,below,m jatding,
+Jinggoi,strong,epistemic,1,negative,yes,above,jinggoi m ,
+Jinggoi,weak necessity,epistemic,?,negative,yes,above,jinggoi m ,
+Jinggoi,weak,epistemic,?,negative,yes,above,jinggoi m ,
+Jinggoi,strong,deontic,?,negative,yes,above,jinggoi m ,
+Jinggoi,weak necessity,deontic,?,negative,yes,above,jinggoi m ,
+Jinggoi,weak,deontic,?,negative,yes,above,jinggoi m ,
+Jinggoi,strong,teleological,?,negative,yes,above,jinggoi m ,
+Jinggoi,weak necessity,teleological,?,negative,yes,above,jinggoi m ,
+Jinggoi,weak,teleological,?,negative,yes,above,jinggoi m ,
+Jinggoi,strong,circumstantial,?,negative,yes,above,jinggoi m ,
+Jinggoi,weak,circumstantial,?,negative,yes,above,jinggoi m ,
+Jinggoi,strong,bouletic,?,negative,yes,above,jinggoi m ,
+Jiu,strong,epistemic,?,negative,yes,below,m jatding jiu,
+Jiu,weak necessity,epistemic,?,negative,yes,below,m jatding jiu,
+Jiu,weak,epistemic,?,negative,yes,below,m jatding jiu,
+Jiu,strong,deontic,?,negative,yes,below,m jatding jiu,
+Jiu,weak necessity,deontic,?,negative,yes,below,m jatding jiu,
+Jiu,weak,deontic,?,negative,yes,below,m jatding jiu,
+Jiu,strong,teleological,1,negative,yes,below,m jatding jiu,both elements required
+Jiu,weak necessity,teleological,?,negative,yes,below,m jatding jiu,
+Jiu,weak,teleological,?,negative,yes,below,m jatding jiu,
+Jiu,strong,circumstantial,?,negative,yes,below,m jatding jiu,
+Jiu,weak,circumstantial,?,negative,yes,below,m jatding jiu,
+Jiu,strong,bouletic,?,negative,yes,below,m jatding jiu,
+Honang ,strong,epistemic,1,negative,yes,above,jau honang m ,
+Honang ,weak necessity,epistemic,?,negative,yes,above,jau honang m ,
+Honang ,weak,epistemic,1,negative,yes,below,mou honang,
+Honang ,strong,deontic,?,negative,yes,above,jau honang m ,
+Honang ,weak necessity,deontic,?,negative,yes,above,jau honang m ,
+Honang ,weak,deontic,?,negative,yes,above,jau honang m ,
+Honang ,strong,teleological,?,negative,yes,above,jau honang m ,
+Honang ,weak necessity,teleological,?,negative,yes,above,jau honang m ,
+Honang ,weak,teleological,?,negative,yes,above,jau honang m ,
+Honang ,strong,circumstantial,?,negative,yes,above,jau honang m ,
+Honang ,weak,circumstantial,?,negative,yes,above,jau honang m ,
+Honang ,strong,bouletic,?,negative,yes,above,jau honang m ,
+Hoji,strong,epistemic,?,negative,yes,below,m hoji,
+Hoji,weak necessity,epistemic,?,negative,yes,below,m hoji,
+Hoji,weak,epistemic,?,negative,yes,below,m hoji,
+Hoji,strong,deontic,?,negative,yes,below,m hoji,
+Hoji,weak necessity,deontic,?,negative,yes,below,m hoji,
+Hoji,weak,deontic,1,negative,yes,below,m hoji,
+Hoji,strong,teleological,?,negative,yes,below,m hoji,
+Hoji,weak necessity,teleological,?,negative,yes,below,m hoji,
+Hoji,weak,teleological,1,negative,yes,below,m hoji,
+Hoji,strong,circumstantial,?,negative,yes,below,m hoji,
+Hoji,weak,circumstantial,1,negative,yes,below,m hoji,
+Hoji,strong,bouletic,?,negative,yes,below,m hoji,
+Dak,strong,epistemic,?,negative,yes,below,mou dak,
+Dak,weak necessity,epistemic,?,negative,yes,below,mou dak,
+Dak,weak,epistemic,?,negative,yes,below,mou dak,
+Dak,strong,deontic,?,negative,yes,below,mou dak,
+Dak,weak necessity,deontic,?,negative,yes,below,mou dak,
+Dak,weak,deontic,?,negative,yes,below,mou dak,
+Dak,strong,teleological,?,negative,yes,below,mou dak,
+Dak,weak necessity,teleological,?,negative,yes,below,mou dak,
+Dak,weak,teleological,?,negative,yes,below,mou dak,
+Dak,strong,circumstantial,?,negative,yes,below,mou dak,
+Dak,weak,circumstantial,1,negative,yes,below,mou dak,
+Dak,strong,bouletic,?,negative,yes,below,mou dak,
+... dou,strong,epistemic,?,negative,yes,below,m dou,
+... dou,weak necessity,epistemic,?,negative,yes,below,m dou,
+... dou,weak,epistemic,?,negative,yes,below,m dou,
+... dou,strong,deontic,?,negative,yes,below,m dou,
+... dou,weak necessity,deontic,?,negative,yes,below,m dou,
+... dou,weak,deontic,?,negative,yes,below,m dou,
+... dou,strong,teleological,?,negative,yes,below,m dou,
+... dou,weak necessity,teleological,?,negative,yes,below,m dou,
+... dou,weak,teleological,?,negative,yes,below,m dou,
+... dou,strong,circumstantial,?,negative,yes,below,m dou,
+... dou,weak,circumstantial,1,negative,yes,below,m dou,
+... dou,strong,bouletic,?,negative,yes,below,m dou,
