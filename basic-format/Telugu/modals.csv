@@ -1,0 +1,121 @@
+expression,force,flavor,can_express,polarity,syntactically_negated,full_form,notes
+tappakuNdaa,strong,epistemic,1,positive,no,,Adverbial element
+tappakuNdaa,weak necessity,epistemic,1,positive,no,,Adverbial element
+tappakuNdaa,weak,epistemic,?,positive,no,,Adverbial element
+tappakuNdaa,strong,deontic,?,positive,no,,Adverbial element
+tappakuNdaa,weak necessity,deontic,?,positive,no,,Adverbial element
+tappakuNdaa,weak,deontic,?,positive,no,,Adverbial element
+tappakuNdaa,strong,teleological,0,positive,no,,Adverbial element
+tappakuNdaa,weak necessity,teleological,?,positive,no,,Adverbial element
+tappakuNdaa,weak,teleological,?,positive,no,,Adverbial element
+tappakuNdaa,strong ,circumstantial,?,positive,no,,Adverbial element
+tappakuNdaa,weak,circumstantial,?,positive,no,,Adverbial element
+tappakuNdaa,strong,bouletic,?,positive,no,,Adverbial element
+V-ccu,strong,epistemic,?,positive,no,,verbal suffix
+V-ccu,weak necessity,epistemic,?,positive,no,,verbal suffix
+V-ccu,weak,epistemic,1,positive,no,,verbal suffix
+V-ccu,strong,deontic,?,positive,no,,verbal suffix
+V-ccu,weak necessity,deontic,?,positive,no,,verbal suffix
+V-ccu,weak,deontic,1,positive,no,,verbal suffix
+V-ccu,strong,teleological,?,positive,no,,verbal suffix
+V-ccu,weak necessity,teleological,?,positive,no,,verbal suffix
+V-ccu,weak,teleological,1,positive,no,,verbal suffix
+V-ccu,strong ,circumstantial,?,positive,no,,verbal suffix
+V-ccu,weak,circumstantial,1,positive,no,,verbal suffix
+V-ccu,strong,bouletic,?,positive,no,,verbal suffix
+v-anakuntaa,strong,epistemic,?,positive,no,,verbal suffix
+v-anakuntaa,weak necessity,epistemic,?,positive,no,,verbal suffix
+v-anakuntaa,weak,epistemic,1,positive,no,,verbal suffix
+v-anakuntaa,strong,deontic,?,positive,no,,verbal suffix
+v-anakuntaa,weak necessity,deontic,?,positive,no,,verbal suffix
+v-anakuntaa,weak,deontic,?,positive,no,,verbal suffix
+v-anakuntaa,strong,teleological,?,positive,no,,verbal suffix
+v-anakuntaa,weak necessity,teleological,?,positive,no,,verbal suffix
+v-anakuntaa,weak,teleological,?,positive,no,,verbal suffix
+v-anakuntaa,strong ,circumstantial,?,positive,no,,verbal suffix
+v-anakuntaa,weak,circumstantial,?,positive,no,,verbal suffix
+v-anakuntaa,strong,bouletic,?,positive,no,,verbal suffix
+v-aali,strong,epistemic,?,positive,no,,verbal suffix
+v-aali,weak necessity,epistemic,?,positive,no,,verbal suffix
+v-aali,weak,epistemic,0,positive,no,,verbal suffix
+v-aali,strong,deontic,1,positive,no,,verbal suffix
+v-aali,weak necessity,deontic,1,positive,no,,verbal suffix
+v-aali,weak,deontic,0,positive,no,,verbal suffix
+v-aali,strong,teleological,1,positive,no,,verbal suffix
+v-aali,weak necessity,teleological,1,positive,no,,verbal suffix
+v-aali,weak,teleological,0,positive,no,,verbal suffix
+v-aali,strong ,circumstantial,1,positive,no,,verbal suffix
+v-aali,weak,circumstantial,0,positive,no,,verbal suffix
+v-aali,strong,bouletic,1,positive,no,,verbal suffix
+v-gala,strong,epistemic,?,positive,no,,verbal suffix
+v-gala,weak necessity,epistemic,?,positive,no,,verbal suffix
+v-gala,weak,epistemic,?,positive,no,,verbal suffix
+v-gala,strong,deontic,?,positive,no,,verbal suffix
+v-gala,weak necessity,deontic,?,positive,no,,verbal suffix
+v-gala,weak,deontic,?,positive,no,,verbal suffix
+v-gala,strong,teleological,?,positive,no,,verbal suffix
+v-gala,weak necessity,teleological,?,positive,no,,verbal suffix
+v-gala,weak,teleological,?,positive,no,,verbal suffix
+v-gala,strong ,circumstantial,?,positive,no,,verbal suffix
+v-gala,weak,circumstantial,1,positive,no,,verbal suffix
+v-gala,strong,bouletic,?,positive,no,,verbal suffix
+V-ccu,strong,epistemic,1,negative,?,V-NEG-ccu,
+V-ccu,weak necessity,epistemic,?,negative,?,V-NEG-ccu,
+V-ccu,weak,epistemic,?,negative,?,V-NEG-ccu,
+V-ccu,strong,deontic,?,negative,?,V-NEG-ccu,
+V-ccu,weak necessity,deontic,?,negative,?,V-NEG-ccu,
+V-ccu,weak,deontic,?,negative,?,V-NEG-ccu,
+V-ccu,strong,teleological,?,negative,?,V-NEG-ccu,
+V-ccu,weak necessity,teleological,?,negative,?,V-NEG-ccu,
+V-ccu,weak,teleological,?,negative,?,V-NEG-ccu,
+V-ccu,strong ,circumstantial,?,negative,?,V-NEG-ccu,
+V-ccu,weak,circumstantial,?,negative,?,V-NEG-ccu,
+V-ccu,strong,bouletic,?,negative,?,V-NEG-ccu,
+v-anakuntaa,strong,epistemic,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak necessity,epistemic,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak,epistemic,1,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,strong,deontic,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak necessity,deontic,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak,deontic,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,strong,teleological,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak necessity,teleological,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak,teleological,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,strong ,circumstantial,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,weak,circumstantial,?,negative,?,V-NEG-anakuntaa,
+v-anakuntaa,strong,bouletic,?,negative,?,V-NEG-anakuntaa,
+avasaram ,strong,epistemic,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak necessity,epistemic,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak,epistemic,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,strong,deontic,1,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak necessity,deontic,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak,deontic,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,strong,teleological,1,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak necessity,teleological,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak,teleological,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,strong ,circumstantial,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,weak,circumstantial,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+avasaram ,strong,bouletic,?,negative,above,[clause] + avasaram ledu,avasaram (need) + le + AGR
+kuuda,strong,epistemic,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak necessity,epistemic,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,epistemic,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,deontic,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak necessity,deontic,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,deontic,1,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,teleological,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak necessity,teleological,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,teleological,1,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong ,circumstantial,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,weak,circumstantial,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+kuuda,strong,bouletic,?,negative,?,[clause] + kuuda + AGR,Negate a non-modal clause with negator kuuda
+le,strong,epistemic,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak necessity,epistemic,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak,epistemic,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,strong,deontic,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak necessity,deontic,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak,deontic,1,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,strong,teleological,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak necessity,teleological,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak,teleological,1,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,strong ,circumstantial,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,weak,circumstantial,1,negative,?,[clause] + le + AGR,le (impossibility) + AGR
+le,strong,bouletic,?,negative,?,[clause] + le + AGR,le (impossibility) + AGR
