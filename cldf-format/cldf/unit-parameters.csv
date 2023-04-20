@@ -8,7 +8,6 @@ strong.future,strong.future,,strong,future
 strong.hortative,strong.hortative,,strong,hortative
 strong.intentional,strong.intentional,,strong,intentional
 strong.irrealis,strong.irrealis,,strong,irrealis
-strong.purposive,strong.purposive,,strong,purposive
 strong.reportative,strong.reportative,,strong,reportative
 strong.teleological,strong.teleological,,strong,teleological
 strong.volitional,strong.volitional,,strong,volitional
@@ -21,6 +20,7 @@ weak.future,weak.future,,weak,future
 weak.intentional,weak.intentional,,weak,intentional
 weak.irrealis,weak.irrealis,,weak,irrealis
 weak.permissive,weak.permissive,,weak,permissive
+weak.purposive,weak.purposive,,weak,purposive
 weak.reportative,weak.reportative,,weak,reportative
 weak.teleological,weak.teleological,,weak,teleological
 weak.volitional,weak.volitional,,weak,volitional

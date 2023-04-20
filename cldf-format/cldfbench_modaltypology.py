@@ -108,7 +108,7 @@ class Dataset(BaseDataset):
             this_metadata = [
                 lang_meta
                 for lang_meta in langs_metadata
-                if lang_meta["Glotto.code"] == lid
+                if lang_meta["Glotto code"] == lid
             ][0]
             args.writer.objects["LanguageTable"].append(
                 dict(
@@ -120,9 +120,9 @@ class Dataset(BaseDataset):
                     Latitude=glottolang.latitude,
                     Longitude=glottolang.longitude,
                     Family=glottolang.family,
-                    Complete_language=this_metadata["Complete_language"],
-                    Source=this_metadata["Reference_key"],
-                    Reference_type=this_metadata["Reference_type"],
+                    Complete_language=this_metadata["Complete-language"],
+                    Source=this_metadata["Reference-key"],
+                    Reference_type=this_metadata["Reference-type"],
                     Reference=this_metadata["Reference"],
                     Reference_URL=this_metadata["URL"],
                 )
