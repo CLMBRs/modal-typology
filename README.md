@@ -16,9 +16,9 @@ language/
 * expression
 * force
 * flavor
-* can_express
+* can_express will have value in `[1,0,?]`
 * polarity
-* syntactically_negated
+* syntactically_negated will have value in `[high,low,no]`
 * full_form
 
 Each row is one observation: `can_express` has values stating whether or not an `expression` (orthographically represented) is capable of expressing a particular combination of `force` and `flavor`.
