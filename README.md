@@ -18,7 +18,7 @@ language/
 * flavor
 * can_express: this field will have value in `[1,0,?]`
 * polarity
-* syntactically_negated: this field will have value in `[high,low,no]` to indicate the relation between modal and negation
+* syntactically_negated: this field will have value in `[high,low,no]` to indicate the relation between modal and negation, `low` means negation scopes lower than modal and vice versa. `no` means the expression is not syntactically negated.
 * full_form
 
 Each row is one observation: `can_express` has values stating whether or not an `expression` (orthographically represented) is capable of expressing a particular combination of `force` and `flavor`.
