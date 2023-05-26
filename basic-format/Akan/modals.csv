@@ -14,10 +14,10 @@ expression,force,flavor,can_express,polarity,syntactically_negated,full_form,not
 ɛsɛsɛ,strong,epistemic,1,negative,low,ɛnsɛsɛ,n is negation
 ɛsɛsɛ,weak necessity,epistemic,?,negative,,,
 ɛsɛsɛ,weak,epistemic,?,negative,,,
-ɛsɛsɛ,strong,deontic,1,negative,low*,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower"
+ɛsɛsɛ,strong,deontic,1,negative,low,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower"
 ɛsɛsɛ,weak necessity,deontic,?,negative,,,
 ɛsɛsɛ,weak,deontic,?,negative,,,
-ɛsɛsɛ,strong,teleological,1,negative,low*,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower"
+ɛsɛsɛ,strong,teleological,1,negative,low,ɛnsɛsɛ,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes lower"
 ɛsɛsɛ,weak necessity,teleological,?,negative,,,
 ɛsɛsɛ,weak,teleological,?,negative,,,
 ɛsɛsɛ,strong,circumstantial,?,negative,,,
@@ -50,10 +50,10 @@ a-gye-sɛ,strong,bouletic,?,positive,no,a-gye-sɛ,
 ɛ-ho-hia,strong,epistemic,?,negative,,,
 ɛ-ho-hia,weak necessity,epistemic,?,negative,,,
 ɛ-ho-hia,weak,epistemic,?,negative,,,
-ɛ-ho-hia,strong,deontic,1,negative,high*,ɛ-ho-n-hia,"translated to ""don't have to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics"
+ɛ-ho-hia,strong,deontic,1,negative,high,ɛ-ho-n-hia,"translated to ""don't have to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics"
 ɛ-ho-hia,weak necessity,deontic,?,negative,,,
 ɛ-ho-hia,weak,deontic,?,negative,,,
-ɛ-ho-hia,strong,teleological,1,negative,high*,ɛ-ho-n-hia,"translated to ""don't need to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics"
+ɛ-ho-hia,strong,teleological,1,negative,high,ɛ-ho-n-hia,"translated to ""don't need to"",it is hard to tell from notes the scope but I categorize it as high base on the semantics"
 ɛ-ho-hia,weak necessity,teleological,?,negative,,,
 ɛ-ho-hia,weak,teleological,?,negative,,,
 ɛ-ho-hia,strong,circumstantial,?,negative,,,
@@ -136,12 +136,12 @@ gyama,strong,bouletic,?,positive,no,gyama,
 (be)-tumi,weak,epistemic,1,negative,high,n+tumi ... n+verb,n is negation
 (be)-tumi,strong,deontic,?,negative,,,
 (be)-tumi,weak necessity,deontic,?,negative,,,
-(be)-tumi,weak,deontic,1,negative,high*,n+tumi ... n+verb,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes higher"
+(be)-tumi,weak,deontic,1,negative,high,n+tumi ... n+verb,"it is hard to tell from note the scope of negation, but from the semantics of words it seems like the negation scopes higher"
 (be)-tumi,strong,teleological,?,negative,,,
 (be)-tumi,weak necessity,teleological,?,negative,,,
-(be)-tumi,weak,teleological,1,negative,high*,n+tumi ... n+verb,
+(be)-tumi,weak,teleological,1,negative,high,n+tumi ... n+verb,
 (be)-tumi,strong,circumstantial,?,negative,,,
-(be)-tumi,weak,circumstantial,1,negative,high*,n+tumi ... n+verb,
+(be)-tumi,weak,circumstantial,1,negative,high,n+tumi ... n+verb,
 (be)-tumi,strong,bouletic,?,negative,,,
 ebia+tumi,strong,epistemic,1,negative,low,ebetumi....eni,"ebia is an adverb that means perhaps and tumi means can, eni is a negation form"
 ebia+tumi,weak necessity,epistemic,?,negative,,,
