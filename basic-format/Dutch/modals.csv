@@ -38,7 +38,7 @@ moet/moeten,strong,bouletic,1,positive,no,moet/moeten,
 moet/moeten,strong,epistemic,?,negative,,,
 moet/moeten,weak necessity,epistemic,?,negative,,,
 moet/moeten,weak,epistemic,?,negative,,,
-moet/moeten,strong,deontic,1,negative,yes,moet ... niet,
+moet/moeten,strong,deontic,1,negative,high,moet ... niet,the linear order might be caused by elipitcal 
 moet/moeten,weak necessity,deontic,?,negative,,,
 moet/moeten,weak,deontic,1,negative,low,moet ... niet,
 moet/moeten,strong,teleological,?,negative,,,
