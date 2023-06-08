@@ -1,0 +1,5 @@
+ID,Name,Description
+0,yes, the full form of expression contains negation
+1,high, the full form of expression contains negation and the negation scopes above modals
+2,low, the full form of expression contains negation and the negation scopes below modals
+3,no, the full form of expression does not contain negation
